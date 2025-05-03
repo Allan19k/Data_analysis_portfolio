@@ -75,3 +75,32 @@ Instala las siguientes bibliotecas si es necesario:
 !pip install pydot
 !apt-get install graphviz
 
+## ▶️ Ejecución
+
+1. **Carga los datos** y realiza el preprocesamiento usando:
+   - `MinMaxScaler` para escalar los valores.
+   - Técnicas de **ventaneo** para crear las secuencias temporales.
+2. **Implementa y entrena** los modelos:
+   - RNN
+   - LSTM
+3. **Evalúa los modelos** usando las métricas:
+   - MSE (Error Cuadrático Medio)
+   - RMSE (Raíz del Error Cuadrático Medio)
+   - MAE (Error Absoluto Medio)
+
+## 🧾 Conclusiones
+
+- El **RNN simple superó ligeramente al LSTM** en este análisis, posiblemente por la naturaleza de los datos.
+- Este proyecto demuestra habilidades en:
+  - ✅ Manejo de **series temporales**
+  - ✅ Implementación de **modelos de Machine Learning**
+  - ✅ Evaluación de **resultados de predicción**
+- Está alineado con roles relacionados a:
+  - **Análisis de datos**
+  - **Aplicaciones Fintech**
+
+## 📄 Licencia
+
+Este proyecto está bajo la **Licencia MIT**.
+
+
