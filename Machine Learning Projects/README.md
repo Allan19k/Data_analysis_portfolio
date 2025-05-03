@@ -1,4 +1,4 @@
-# Predicción de Tasas de Cambio EUR/USD usando RNN y LSTM
+# 📈 Predicción de Tasas de Cambio EUR/USD usando RNN y LSTM
 
 Este proyecto analiza y predice las tasas de cambio diarias entre el Euro y el Dólar Estadounidense (EUR/USD) utilizando modelos de redes neuronales recurrentes: **RNN** y **LSTM**.
 
@@ -60,21 +60,6 @@ Predecir valores futuros de la tasa de cambio EUR/USD y evaluar la efectividad d
 
 ---
 
-## 🚀 Instrucciones de Uso
-
-### 🛠️ Entorno
-
-Este código está diseñado para ejecutarse en **Google Colab**.
-
-### 📦 Dependencias
-
-Instala las siguientes bibliotecas si es necesario:
-
-```bash
-!pip install yfinance
-!pip install pydot
-!apt-get install graphviz
-
 ## ▶️ Ejecución
 
 1. **Carga los datos** y realiza el preprocesamiento usando:
@@ -88,6 +73,8 @@ Instala las siguientes bibliotecas si es necesario:
    - RMSE (Raíz del Error Cuadrático Medio)
    - MAE (Error Absoluto Medio)
 
+---
+
 ## 🧾 Conclusiones
 
 - El **RNN simple superó ligeramente al LSTM** en este análisis, posiblemente por la naturaleza de los datos.
@@ -98,6 +85,8 @@ Instala las siguientes bibliotecas si es necesario:
 - Está alineado con roles relacionados a:
   - **Análisis de datos**
   - **Aplicaciones Fintech**
+
+---
 
 ## 📄 Licencia
 
