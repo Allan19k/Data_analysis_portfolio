@@ -35,8 +35,8 @@ Predecir valores futuros de la tasa de cambio EUR/USD y evaluar la efectividad d
 
 ### 🧠 Modelos
 
-- **RNN:** Una capa `SimpleRNN` con 50 unidades.
-- **LSTM:** Una capa `LSTM` con 50 unidades.
+- **RNN:** Dos capas `SimpleRNN` con 50 unidades cada una. La primera capa tiene return_sequences=True para devolver la secuencia completa a la segunda capa, permitiendo apilar capas y capturar patrones más complejos.
+- **LSTM:** Dos capas `LSTM` con 50 unidades cada una. La primera capa tiene return_sequences=True para pasar la secuencia completa a la segunda capa, mejorando la captura de dependencias temporales.
 - Ambos modelos incluyen una **capa densa de salida** para predicción.
 
 ### ⚙️ Optimizador
@@ -60,7 +60,22 @@ Predecir valores futuros de la tasa de cambio EUR/USD y evaluar la efectividad d
 
 ---
 
-## ▶️ Ejecución
+## 🚀 Instrucciones de Uso
+
+### 🛠️ Entorno
+
+Este código está diseñado para ejecutarse en **Google Colab**.
+
+### 📦 Dependencias
+
+Instala las siguientes bibliotecas si es necesario:
+
+```bash
+!pip install yfinance
+!pip install pydot
+!apt-get install graphvi
+```
+###  ▶️ Ejecución
 
 1. **Carga los datos** y realiza el preprocesamiento usando:
    - `MinMaxScaler` para escalar los valores.
@@ -75,7 +90,7 @@ Predecir valores futuros de la tasa de cambio EUR/USD y evaluar la efectividad d
 
 ---
 
-## 🧾 Conclusiones
+### 🧾 Conclusiones
 
 - El **RNN simple superó ligeramente al LSTM** en este análisis, posiblemente por la naturaleza de los datos.
 - Este proyecto demuestra habilidades en:
@@ -88,7 +103,7 @@ Predecir valores futuros de la tasa de cambio EUR/USD y evaluar la efectividad d
 
 ---
 
-## 📄 Licencia
+### 📄 Licencia
 
 Este proyecto está bajo la **Licencia MIT**.
 
