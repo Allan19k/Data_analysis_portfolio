@@ -3,14 +3,14 @@
 Este proyecto representa mi primer trabajo de análisis estadístico en Python, donde utilicé el módulo estándar `statistics` para calcular medidas descriptivas clave sobre un conjunto de datos numéricos.
 
 El objetivo del análisis es comprender cómo extraer información básica de los datos, aplicando técnicas estadísticas fundamentales, sin depender de librerías externas como NumPy o pandas. 
-Este enfoque permite conocer desde cero cómo Python maneja operaciones estadísticas básicas.
+Este enfoque permite conocer desde cero cómo Python maneja operaciones estadísticas básicas. 🧩
 
 ---
 
 ## 🚀 Tecnologías utilizadas
 
 - 📌 Python 3
-- 🧮 Módulo estándar `statistics`
+- 🧮 Libreria `statistics` de python
 - 💻 Google Colab
 
 ---
