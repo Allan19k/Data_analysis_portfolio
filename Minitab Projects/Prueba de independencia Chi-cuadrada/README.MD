@@ -14,7 +14,7 @@ Determinar si existe relación entre dos variables categóricas mediante la **pr
 
 ## 📚 Ejercicios realizados
 
-### 📌 Encuesta Electoral (07/03/24)
+### 📌 Ejercicio 1# Encuesta Electoral (07/03/24)
 - **Situación:** Se analiza si la **edad** de los votantes se relaciona con su **preferencia de partido político**.
 - **Hipótesis:**
   - H₀: La edad es independiente de la preferencia de partido.
@@ -24,7 +24,7 @@ Determinar si existe relación entre dos variables categóricas mediante la **pr
 
 ---
 
-### 📌 Ejercicios en Clase (13/03/24)
+### 📌 Ejercicios 2, 3 y 4  (13/03/24) 
 
 #### 🧪 Problema 1 – Empresa minera
 - **Situación:** Se investiga si el **tipo de trabajo** influye en el **nivel de un componente en la sangre** de 300 trabajadores.
@@ -61,8 +61,8 @@ Determinar si existe relación entre dos variables categóricas mediante la **pr
 
 ## 📄 Archivos incluidos
 
-- `Encuesta electoral (07-03-24).mpx`
-- `Ejercicios (13-03-24).mpx`
+- `Ejercicio 1 (07-03-24).mpx`
+- `Ejercicios 2, 3 y 4 (13-03-24).mpx`
 - `minitab_chi_cuadrada.pdf` → Contiene el planteamiento y conclusiones escritas
 
 ---
