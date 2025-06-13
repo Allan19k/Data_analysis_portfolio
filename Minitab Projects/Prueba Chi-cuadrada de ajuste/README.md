@@ -27,6 +27,7 @@ Verificar si los datos observados en distintos contextos se ajustan a una distri
 
 - Evaluación del número de intentos hasta obtener una cara en un experimento repetido 256 veces.  
   ✔️ Resultado: No se rechaza H₀. Los datos se ajustan a una distribución Geométrica.
+
   NOTA: Durante el desarrollo de este ejercicio, fue necesario realizar un ajuste a la distribución teórica, ya que la sumatoria de las probabilidades iniciales no equivalía a 1.
   Se aplicó una corrección proporcional para normalizar los valores y así poder calcular adecuadamente las frecuencias esperadas necesarias para la prueba Chi-cuadrado."
 
