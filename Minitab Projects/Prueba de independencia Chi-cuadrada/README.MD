@@ -46,7 +46,7 @@ Determinar si existe relación entre dos variables categóricas mediante la **pr
 ## 🔧 Herramienta utilizada
 
 - 🧮 **Minitab Statistical Software**
-- Función: `Stat > Tables > Chi-Square Test for Association`
+- Función: `Estadísticas > Tablas > Prueba chi-cuadrada para asociación`
 
 ---
 
