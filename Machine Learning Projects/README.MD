@@ -21,7 +21,7 @@ Cuaderno didáctico con ejercicios de álgebra lineal orientados a redes neurona
 
 Optimización de un clasificador (`MLPClassifier`) utilizando `GridSearchCV` sobre el dataset `load_wine`. Se evaluaron distintas combinaciones de hiperparámetros (número de neuronas, funciones de activación, optimizadores) para encontrar la mejor configuración con validación cruzada.
 
-📂 [`/Busqueda_de_hiperparametros`](./Busqueda_de_hiperparametros)
+📂 [`/Busqueda_de_Hiperparametros`](./Busqueda_de_Hiperparametros)
 
 ---
 
