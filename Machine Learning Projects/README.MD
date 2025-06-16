@@ -11,7 +11,8 @@ El objetivo de esta sección es demostrar el dominio de distintas fases del desa
 
 ### 📐 1. Repaso de Álgebra para Redes Neuronales
 
-Cuaderno didáctico con ejercicios de álgebra lineal orientados a redes neuronales y computación matricial. Incluye manipulación de tensores, operaciones con `NumPy`, transposición, multiplicación de matrices, productos punto y broadcasting. Útil para reforzar fundamentos matemáticos clave en ML.
+Cuaderno didáctico con ejercicios de álgebra lineal orientados a redes neuronales y computación matricial. Está enfocado en reforzar los conocimientos matemáticos esenciales para Machine Learning, utilizando la biblioteca NumPy 🧮.
+Antes de entrenar modelos, es clave dominar el manejo de vectores, matrices y operaciones lineales, ya que son la base de muchos algoritmos
 
 📂 [`/Repaso_de_Algebra`](./Repaso_de_Algebra)
 
