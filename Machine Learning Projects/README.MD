@@ -21,7 +21,7 @@ Cuaderno didáctico con ejercicios de álgebra lineal orientados a redes neurona
 
 Optimización de un clasificador (`MLPClassifier`) utilizando `GridSearchCV` sobre el dataset `load_wine`. Se evaluaron distintas combinaciones de hiperparámetros (número de neuronas, funciones de activación, optimizadores) para encontrar la mejor configuración con validación cruzada.
 
-📂 [`/Busqueda de hiperparametros`](./Busqueda de hiperparametros)
+📂 [`/Busqueda_de_hiperparametros`](./Busqueda_de_hiperparametros)
 
 ---
 
@@ -37,7 +37,7 @@ Se implementaron modelos de redes neuronales recurrentes (RNN y LSTM) para prede
 
 Modelo de clasificación de imágenes de herramientas utilizando transferencia de aprendizaje con ResNet50. Se aplicaron técnicas de congelamiento de capas, ajuste fino del clasificador, uso de dropout, `class_weights` y data augmentation agresivo para mejorar el rendimiento sobre un conjunto de datos de Kaggle.
 
-📂 [`/Transfer Learning & CNN`](./Transfer Learning & CNN)
+📂 [`/Transfer_Learning_&_CNN`](./Transfer_Learning_&_CNN)
 
 ---
 
