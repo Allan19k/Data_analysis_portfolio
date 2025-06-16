@@ -1,4 +1,4 @@
-# 🤖 Proyectos de Machine Learning
+# 🤖 Machine Learning
 
 Este repositorio reúne varios proyectos desarrollados en la materia de Machine Learning que lleve en 7º semestre. 
 Cada uno aborda distintos enfoques y técnicas de aprendizaje supervisado, redes neuronales, optimización de modelos y procesamiento de datos, aplicados en contextos reales y datasets clásicos.
@@ -13,9 +13,9 @@ El objetivo de esta sección es demostrar el dominio de distintas fases del desa
 
 Cuaderno didáctico con ejercicios de álgebra lineal orientados a redes neuronales y computación matricial. Incluye manipulación de tensores, operaciones con `NumPy`, transposición, multiplicación de matrices, productos punto y broadcasting. Útil para reforzar fundamentos matemáticos clave en ML.
 
---- 
-
 📂 [`/Repaso_de_Algebra`](./Repaso_de_Algebra)
+
+---
 
 ### 🔍 2. Búsqueda de Hiperparámetros con GridSearchCV
 
