@@ -18,7 +18,7 @@ Esta carpeta contiene una serie de ejercicios prácticos aplicados en el softwar
 
 - `Ejercicio 1#.mpx`: Relación entre volumen de ventas y gastos en publicidad.
 - `Ejercicios 2, 3 y 4.mpx`: Casos de rendimiento informático, transmisión de ficheros y precios de impresoras.
-- `Regresion_Simple.docx`: Documento con redacción completa de cada problema, hipótesis, modelo calculado y conclusiones.
+- `Regresion_Simple.pdf`: Documento con redacción completa de cada problema, hipótesis, modelo calculado y conclusiones.
 
 ---
 
@@ -38,3 +38,6 @@ Esta carpeta contiene una serie de ejercicios prácticos aplicados en el softwar
 
 ---
 
+## ✅ Conclusión general
+
+El conjunto de ejercicios demostró cómo la regresión lineal simple puede ser utilizada como una herramienta poderosa para **modelar relaciones entre dos variables cuantitativas**, identificar patrones y realizar predicciones confiables. A través de la interpretación de los coeficientes y la validación estadística de cada modelo, se fortaleció la comprensión del análisis estadístico aplicado, permitiendo tomar decisiones fundamentadas en datos.
