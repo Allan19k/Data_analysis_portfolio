@@ -41,3 +41,9 @@ Esta carpeta contiene una serie de ejercicios prácticos aplicados en el softwar
 ## ✅ Conclusión general
 
 El conjunto de ejercicios demostró cómo la regresión lineal simple puede ser utilizada como una herramienta poderosa para **modelar relaciones entre dos variables cuantitativas**, identificar patrones y realizar predicciones confiables. A través de la interpretación de los coeficientes y la validación estadística de cada modelo, se fortaleció la comprensión del análisis estadístico aplicado, permitiendo tomar decisiones fundamentadas en datos.
+
+---
+## 📄 Licencia
+
+Este proyecto tiene fines educativos y forma parte del portafolio académico del autor.
+
