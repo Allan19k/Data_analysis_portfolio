@@ -10,10 +10,10 @@ Construir un modelo estadístico predictivo para explicar el comportamiento de u
 
 ---
 
-## 📄 Archivo incluido
+## 📄 Archivos incluidos
 
 - `Regresion Lineal Multiple.mpx`: Archivo del ejercicio realizado en Minitab, que contiene el análisis completo, gráficos de dispersión, salida del modelo, y valores ajustados.
-
+- `Regresion_Lineal_Multiple.pdf`: Documento con redacción completa del problema, modelo calculado y conclusiones.
 ---
 
 ## 🧪 Descripción del problema
