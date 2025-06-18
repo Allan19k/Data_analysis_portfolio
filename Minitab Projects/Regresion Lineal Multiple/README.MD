@@ -50,6 +50,7 @@ La regresión múltiple permite evaluar simultáneamente el efecto de varias var
 
 ---
 
-## 📎 Relacionado
+## 📄 Licencia
 
-Volver a la carpeta principal: [Estadística Aplicada con Minitab](../)
+Este proyecto tiene fines educativos y forma parte del portafolio académico del autor.
+
