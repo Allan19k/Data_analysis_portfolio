@@ -10,7 +10,7 @@ Aplicar la técnica estadística **ANOVA de un factor** para determinar si al me
 
 ---
 
-## 📄 Archivo incluido
+## 📄 Archivos incluidos
 
 - `ANOVA de un solo factor.mpx`: Archivo de los ejercicios trabajados en Minitab
 - `ANOVA_UN_FACTOR.pdf`: Archivo con la redaccion de los ejercicios 
