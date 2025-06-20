@@ -10,7 +10,6 @@ Esta sección del portafolio recopila ejercicios prácticos de **análisis estad
 - Evaluación de independencia entre dos variables categóricas.
 - Análisis de tablas de contingencia.
 
- [`Minitab Projects/Prueba de independencia Chi-cuadrada/`](./Minitab Projects/Prueba de independencia Chi-cuadrada)
 
 ---
 
