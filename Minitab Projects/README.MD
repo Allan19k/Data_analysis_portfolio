@@ -11,7 +11,7 @@ Esta sección del portafolio recopila ejercicios prácticos de **análisis estad
 - Cálculo e interpretación del modelo de regresión.
 - Análisis de residuos y validación del modelo.
 
-📂 [`Regresion Lineal Simple/`](./Regresion Lineal Simple)
+📂 [`Regresion-Lineal-Simple/`](./Regresion-Lineal-Simple)
 
 ---
 
