@@ -14,7 +14,7 @@ Aplicar el método ANOVA de dos factores para:
 
 ---
 
-## 📄 Archivo incluido
+## 📄 Archivos incluidos
 
 - `ANOVA de 2 factores.mpx`: Contiene dos ejercicios aplicados con resultados y gráficos generados en Minitab.
 - `ANOVA_DE_DOS_FACTORES.pdf`: Documento con la redacción de los ejercicios 
