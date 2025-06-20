@@ -6,45 +6,39 @@ Esta sección del portafolio recopila ejercicios prácticos de **análisis estad
 
 ## 🧠 Temas desarrollados
 
-### 1. 📈 Regresión Lineal Simple
+### 1. 🧮 Prueba de Independencia Chi-Cuadrado
+- Evaluación de independencia entre dos variables categóricas.
+- Análisis de tablas de contingencia.
+
+---
+
+### 2. 🧪 Prueba de Bondad de Ajuste Chi-Cuadrado
+- Comparación entre frecuencias observadas y esperadas.
+- Ajuste a distribuciones: Poisson, Binomial, Geométrica e Hipergeométrica.
+
+---
+
+### 3. 📈 Regresión Lineal Simple
 - Evaluación de la relación entre dos variables cuantitativas.
 - Cálculo e interpretación del modelo de regresión.
 - Análisis de residuos y validación del modelo.
 
-📂 [`Regresion-Lineal-Simple/`](./Regresion-Lineal-Simple)
 
 ---
 
-### 2. 📉 Regresión Lineal Múltiple
+### 4. 📉 Regresión Lineal Múltiple
 - Inclusión de múltiples predictores para explicar una variable dependiente.
 - Evaluación de coeficientes, significancia y R² ajustado.
 - Aplicación del modelo a situaciones predictivas complejas.
 
-📂 [`regresion-lineal-multiple/`](./regresion-lineal-multiple)
 
 ---
 
-### 3. 🧪 Prueba de Bondad de Ajuste Chi-Cuadrado
-- Comparación entre frecuencias observadas y esperadas.
-- Ajuste a distribuciones: Poisson, Binomial, Geométrica e Hipergeométrica.
-
-📂 [`chi-cuadrada-ajuste/`](./chi-cuadrada-ajuste)
-
----
-
-### 4. 🧮 Prueba de Independencia Chi-Cuadrado
-- Evaluación de independencia entre dos variables categóricas.
-- Análisis de tablas de contingencia.
-
-📂 [`chi-cuadrada-independencia/`](./chi-cuadrada-independencia)
-
----
 
 ### 5. 📊 ANOVA de un Solo Factor
 - Comparación de medias entre tres o más grupos independientes.
 - Uso de la prueba F, gráficos de caja y validación de supuestos.
 
-📂 [`anova-un-factor/`](./anova-un-factor)
 
 ---
 
@@ -52,8 +46,6 @@ Esta sección del portafolio recopila ejercicios prácticos de **análisis estad
 - Evaluación del efecto de **dos factores simultáneos** sobre una variable cuantitativa.
 - Análisis de interacción entre factores y efectos principales.
 - Gráficos de interacción y significancia estadística.
-
-📂 [`anova-dos-factores/`](./anova-dos-factores) *(en desarrollo)*
 
 ---
 
