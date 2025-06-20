@@ -24,27 +24,61 @@ Aplicar el método ANOVA de dos factores para:
 
 ### Ejercicio 1 – Presión arterial en pacientes con diabetes
 
-- **Factores evaluados:**
-  - Tipo de terapia
-  - Punto temporal de medición (antes, durante y después)
-- **Hipótesis evaluadas:**
-  1. No hay diferencia significativa entre los tipos de terapia.
-  2. No hay diferencia entre los puntos temporales.
-  3. No hay interacción entre tipo de terapia y momento de medición.
-- **Conclusión:** Se detectaron efectos significativos para ambos factores y una interacción notable entre ellos.
+Factores:
+
+    Factor A: Tipo de terapia
+
+    Factor B: Momento de medición (antes, durante, después)
+
+Hipótesis estadísticas
+
+1. Efecto del tipo de terapia:
+
+    H₀A: No hay diferencia en la presión arterial media entre los tipos de terapia.
+
+    H₁A: Al menos un tipo de terapia tiene una media significativamente diferente.
+
+2. Efecto del momento de medición:
+
+    H₀B: No hay diferencia en la presión arterial media entre los distintos momentos de medición.
+
+    H₁B: Al menos un momento tiene una media significativamente diferente.
+
+3. Interacción entre tipo de terapia y momento:
+
+    H₀AB: No existe interacción entre el tipo de terapia y el momento de medición.
+
+    H₁AB: Existe una interacción significativa: el efecto del tipo de terapia depende del momento de medición (y viceversa).
 
 ---
 
 ### Ejercicio 2 – Niveles de magnesio y tiempo de tratamiento
 
-- **Factores evaluados:**
-  - Método de tratamiento
-  - Nivel de tiempo
-- **Hipótesis evaluadas:**
-  1. No hay diferencia significativa entre métodos.
-  2. No hay diferencia entre niveles de tiempo.
-  3. No hay interacción entre método y tiempo.
-- **Conclusión:** Se hallaron efectos significativos de ambos factores y una interacción relevante que afecta los niveles de magnesio.
+Factores:
+
+    Factor A: Método de tratamiento
+
+    Factor B: Nivel de tiempo
+
+Hipótesis estadísticas
+
+1. Efecto del método de tratamiento:
+
+    H₀A: No hay diferencia en el nivel medio de magnesio entre los métodos de tratamiento.
+
+    H₁A: Al menos un método tiene una media significativamente diferente.
+
+2. Efecto del tiempo:
+
+    H₀B: No hay diferencia en el nivel medio de magnesio entre los distintos tiempos.
+
+    H₁B: Al menos un tiempo tiene una media significativamente diferente.
+
+3. Interacción entre método y tiempo:
+
+    H₀AB: No existe interacción entre el método y el tiempo.
+
+    H₁AB: Existe interacción significativa: el efecto del método depende del nivel de tiempo aplicado.
 
 ---
 
