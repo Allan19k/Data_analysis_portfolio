@@ -32,15 +32,13 @@ Faker_for_Dummy_Data/
 ## 🧩 Descripción de los scripts
 
 ### faker_basico.py
-    Genera datos aleatorios y los imprime directamente en consola. Es ideal como introducción rápida al uso de la librería Faker.
+- Genera datos aleatorios y los imprime directamente en consola. Es ideal como introducción rápida al uso de la librería Faker.
 
 ### dummy_data_CSV.py
+- Genera 50 registros ficticios  y los guarda en un archivo registros_ficticios.csv. Utiliza la librería estándar de Python csv.
 
-    Genera 50 registros ficticios  y los guarda en un archivo registros_ficticios.csv. Utiliza la librería estándar de Python csv.
-
-### dummy_data_xlsx.py
-
-    Genera los mismos datos que los scripts anteriores, pero los exporta directamente a un archivo Excel .xlsx utilizando la librería         openpyxl, sin necesidad de pandas.
+### dummy_data_xlsx.py 
+- Genera los mismos datos que los scripts anteriores, pero los exporta directamente a un archivo Excel .xlsx utilizando la librería openpyxl, sin necesidad de pandas.
 
 ### 📝 ¿Qué es openpyxl?
 
