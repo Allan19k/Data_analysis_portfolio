@@ -31,15 +31,17 @@ Faker_for_Dummy_Data/
 
 ## 🧩 Descripción de los scripts
 1. faker_basico.py
-
 Genera datos aleatorios y los imprime directamente en consola. Es ideal como introducción rápida al uso de la librería Faker.
+
 2. generar_csv.py
 
 Genera 50 registros ficticios (nombre, correo, dirección, etc.) y los guarda en un archivo datos_ficticios.csv. Utiliza la librería estándar de Python csv.
+
 3. generar_excel.py
 
 Genera los mismos datos que los scripts anteriores, pero los exporta directamente a un archivo Excel .xlsx utilizando la librería openpyxl, sin necesidad de pandas.
-📝 ¿Qué es openpyxl?
+
+### 📝 ¿Qué es openpyxl?
 
 openpyxl es una librería de Python que permite crear, leer y modificar archivos de Excel (.xlsx). En este proyecto se usa para:
 
