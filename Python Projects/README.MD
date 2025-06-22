@@ -72,6 +72,8 @@ Desarrollar habilidades prácticas para resolver problemas de análisis de datos
 - `statistics`
 - `Faker`
 - `Jupyter Notebook / Google Colab`
+- `csv`
+- `openpyxl`
 
 ---
 
