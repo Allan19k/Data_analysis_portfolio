@@ -30,7 +30,7 @@ Faker_for_Dummy_Data/
 ---
 
 ## 🧩 Descripción de los scripts
-1. faker_basico.py
+### 1. faker_basico.py
 Genera datos aleatorios y los imprime directamente en consola. Es ideal como introducción rápida al uso de la librería Faker.
 
 2. generar_csv.py
@@ -56,23 +56,28 @@ Esto es útil en entornos donde se requiere generar reportes automatizados que p
 
 ---
 
-## 📊 Campos generados
-
-Cada registro contiene:
+## 📊 Campos generados en el faker_basico.py
 
     Nombre
 
-    Correo electrónico
+    Email
 
-    Dirección
+    Direccion
 
     Teléfono
 
+    Texto aleatorio 
+
     Fecha de nacimiento
+
+    Trabajo
+
+    Compañia
 
     País
 
-
+    
+Puedes usar los campos que nececites para generar los datos ficticios (en el de CSV solo puse nombre,edad e email y en el de excel le agregue teléfono)
 ---
 
 ## 🧠 Importancia de generar dummy data
