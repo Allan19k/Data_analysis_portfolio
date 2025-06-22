@@ -37,6 +37,26 @@ Faker_for_Dummy_Data/
 ### dummy_data_CSV.py
 - Genera 50 registros ficticios  y los guarda en un archivo registros_ficticios.csv. Utiliza la librería estándar de Python csv.
 
+### 📄 ¿Qué es csv?
+
+La librería csv es un módulo estándar de Python que permite leer y escribir archivos en formato CSV (Comma-Separated Values), uno de los formatos más comunes para el intercambio de datos tabulares.
+
+En este proyecto, se utiliza csv.writer para:
+
+- Crear un archivo .csv desde cero
+
+- Escribir encabezados (columnas) personalizados
+
+- Guardar múltiples registros en forma de diccionarios (dict), fila por fila
+
+🔍 Es ideal cuando necesitas:
+
+    Exportar datos desde un script de Python sin depender de librerías externas
+
+    Compartir datos con otras herramientas como Excel, pandas o bases de datos relacionales
+
+    Automatizar la generación de reportes simples y portables
+
 ### dummy_data_xlsx.py 
 - Genera los mismos datos que los scripts anteriores, pero los exporta directamente a un archivo Excel .xlsx utilizando la librería openpyxl, sin necesidad de pandas.
 
@@ -44,11 +64,11 @@ Faker_for_Dummy_Data/
 
 openpyxl es una librería de Python que permite crear, leer y modificar archivos de Excel (.xlsx). En este proyecto se usa para:
 
-    Crear un libro de Excel desde cero
+- Crear un libro de Excel desde cero
 
-    Agregar encabezados y registros de forma controlada
+- Agregar encabezados y registros de forma controlada
 
-    Guardar el archivo como si fuera generado manualmente en Excel
+- Guardar el archivo como si fuera generado manualmente en Excel
 
 Esto es útil en entornos donde se requiere generar reportes automatizados que pueden abrirse directamente en Microsoft Excel u otras herramientas compatibles.
 
