@@ -25,6 +25,9 @@ Faker_for_Dummy_Data/
 │   └── registros_ficticios.xlsx     ← Archivo de salida generado
 └── README.md                        ← Este archivo
 
+
+---
+
 ## 🧩 Descripción de los scripts
 1. faker_basico.py
 
@@ -47,6 +50,9 @@ openpyxl es una librería de Python que permite crear, leer y modificar archivos
 
 Esto es útil en entornos donde se requiere generar reportes automatizados que pueden abrirse directamente en Microsoft Excel u otras herramientas compatibles.
 
+
+---
+
 ## 📊 Campos generados
 
 Cada registro contiene:
@@ -63,6 +69,9 @@ Cada registro contiene:
 
     País
 
+
+---
+
 ## 🧠 Importancia de generar dummy data
 
 En contextos como el análisis de datos, inteligencia artificial o desarrollo de software, la generación de datos ficticios permite:
@@ -77,6 +86,9 @@ En contextos como el análisis de datos, inteligencia artificial o desarrollo de
 
 🔍 En empresas como Black Labs, esta técnica es fundamental para construir entornos controlados de prueba, crear datasets sintéticos o proteger la privacidad en ambientes de desarrollo.
 
+
+---
+
 ## 🛠️ Tecnologías utilizadas
 
     Faker – para generación de datos ficticios realistas
@@ -86,6 +98,9 @@ En contextos como el análisis de datos, inteligencia artificial o desarrollo de
     openpyxl – para creación de archivos Excel .xlsx desde cero
 
     Python 3.10+
+
+
+---
 
 ## 📄 Licencia
 
