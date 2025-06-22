@@ -25,6 +25,7 @@ Faker_for_Dummy_Data/
 │   └── registros_ficticios.xlsx     ← Archivo de salida generado
 └── README.md                        ← Este archivo
 
+```plaintext
 
 ---
 
