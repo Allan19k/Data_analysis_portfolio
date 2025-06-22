@@ -1,7 +1,7 @@
 from faker import Faker
 faker = Faker()
 
-# Generate dummy data for a user profile
+# Generar dummy data (datos ficticios) para un perfil de usuario
 print(faker.name())
 print(faker.email())
 print(faker.address())
