@@ -1,6 +1,6 @@
 # 🧪 Generación de Datos Ficticios con Faker – Python
 
-Esta sección del portafolio presenta el uso de la librería **`Faker`** para generar datos sintéticos en español (`es_MX`) con fines de prueba, simulación, visualización o análisis. Se desarrollaron tres scripts funcionales que permiten exportar los registros generados a distintos formatos, simulando estructuras realistas de una base de datos de personas.
+Esta sección del portafolio presenta el uso de la librería **`Faker`** para generar datos sintéticos con fines de prueba, simulación, visualización o análisis. Se desarrollaron tres scripts funcionales que permiten exportar los registros generados a distintos formatos, simulando estructuras realistas de una base de datos de personas.
 
 ---
 
