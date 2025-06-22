@@ -14,7 +14,7 @@ Esta sección del portafolio presenta el uso de la librería **`Faker`** para ge
 
 ## 📁 Estructura del repositorio
 
-```plaintext
+```
 Faker_for_Dummy_Data/
 ├── faker_basico.py                  ← Versión básica que imprime datos en consola
 ├── generar_dummy_data_en_CSV/
@@ -25,7 +25,7 @@ Faker_for_Dummy_Data/
 │   └── registros_ficticios.xlsx     ← Archivo de salida generado
 └── README.md                        ← Este archivo
 
-```plaintext
+```
 
 ---
 
