@@ -1,6 +1,6 @@
 # 📊 Estadística Aplicada con Minitab
 
-Esta sección del portafolio recopila ejercicios prácticos de **análisis estadístico** realizados con el software **Minitab**. Cada uno de los trabajos aborda una técnica específica utilizada para el análisis y modelado de datos en contextos reales, incluyendo interpretación de resultados, validación de supuestos y visualización gráfica.
+Esta sección del portafolio recopila ejercicios prácticos de **análisis estadístico** realizados con el software **Minitab** , durante el curso de Estadistica. Cada uno de los trabajos aborda una técnica específica utilizada para el análisis y modelado de datos en contextos reales, incluyendo interpretación de resultados, validación de supuestos y visualización gráfica.
 
 ---
 
