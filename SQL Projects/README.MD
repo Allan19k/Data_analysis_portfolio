@@ -1,6 +1,6 @@
 # 📘 Fundamentos de SQL – Prácticas en Oracle
 
-Este repositorio contiene ejercicios prácticos organizados por temas fundamentales de SQL, ejecutados sobre Oracle Database 21c Express Edition y el entorno SQL Developer. 
+Este repositorio contiene ejercicios prácticos realizados durante el curso de Bases de datos, organizados por temas fundamentales de SQL, ejecutados sobre Oracle Database 21c Express Edition y el entorno SQL Developer. 
 Las prácticas fueron realizadas utilizando el esquema `HR` y otras tablas auxiliares.
 
 ## 📂 Estructura
