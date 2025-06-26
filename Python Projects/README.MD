@@ -79,7 +79,7 @@ Desarrollar habilidades prácticas para resolver problemas de análisis de datos
 
 ## 🛠️ Cursos de Kaggle
 
-Adicionalmente, complemente esta sección con varios cursos en Python de la pagina de Kaggle https://www.kaggle.com/learn
+Adicionalmente, complemente esta sección con varios cursos en Python de la pagina de Kaggle https://www.kaggle.com/learn los cuales generan un certificado el cual anexo en una seccion llamada "Certifications" dentro de este portafolio junto con otros cursos que fui tomando de otros temas relacionados al Análisis de datos (Excel). 
 
 - `Python`
 - `Pandas`
