@@ -77,6 +77,16 @@ Desarrollar habilidades prácticas para resolver problemas de análisis de datos
 
 ---
 
+## 🛠️ Cursos de Kaggle
+
+Adicionalmente, complemente esta sección con varios cursos en Python de la pagina de Kaggle https://www.kaggle.com/learn
+
+- `Python`
+- `Pandas`
+
+
+---
+
 ## 📄 Licencia
 
 Este repositorio forma parte de mi portafolio académico. Su contenido está disponible para uso educativo, análisis personal o como referencia técnica, siempre que se otorgue el crédito correspondiente.
