@@ -44,6 +44,12 @@ Este curso fue completado exitosamente como parte del proceso de formación téc
 
 ---
 
+## 🧪 Curso oficial
+
+[Kaggle Learn – Python](https://www.kaggle.com/learn/python)
+
+---
+
 ## 📄 Licencia
 
 Este proyecto forma parte de mi portafolio personal. El contenido de los notebooks sigue las prácticas propuestas por **Kaggle Learn**, y ha sido trabajado con fines educativos y de mejora profesional.
