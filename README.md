@@ -1,8 +1,10 @@
 # 📊 Data Analysis Portfolio
 
-Este repositorio (**en proceso de crecimiento**) reúne mis proyectos, ejercicios y certificaciones en **análisis de datos**, con el propósito de **aplicar a prácticas profesionales** en **Black Labs** (Chihuahua), como parte de mi formación académica en Ingeniería en ciencias de la computación.
+Este repositorio (**en proceso de crecimiento**) reúne mis proyectos, ejercicios y certificaciones en **análisis de datos**, con el propósito de **aplicar a prácticas profesionales** en **Black Labs** (Chihuahua), como parte de mi formación académica en Ingeniería en ciencias de la computación 🤓.
 
-Aunque ya están avanzadas seis secciones principales, este portafolio **seguirá creciendo** con nuevos cursos, herramientas y proyectos.
+Aunque ya están avanzadas seis secciones principales (entre ellas Python, Excel, SQL y Machine Learning, que son las herramientas que estaria usando en las practicas), lo cierto es que, este portafolio **seguirá creciendo** con nuevos cursos, herramientas y proyectos.  
+
+Esto debido, a que existen muchas más herramientas y software que usan las empresas hoy en día para el Análisis de Datos, y, ya que vivimos en un mundo 🌎 en constante evolución, seguiran saliendo nuevas tecnologías cada vez mejores (las cuales incluso, podrian dejar obsoletas en cuestion de años, algunas de las que se mencionan en la vacante) y debemos aprender sobre ellas, si no queremos quedarnos "obsoletos". Por eso, sigo investigando y aprendiendo nuevas cosas. 
 
 ---
 
