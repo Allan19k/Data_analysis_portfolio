@@ -55,9 +55,9 @@ Ejercicios de Estadística realizados en 5º semestre con la Profesora Patricia 
 Proyectos y ejercicios con diversas librerías:
 
 - **Fundamentos de Python** (sintaxis, funciones, listas, condicionales…)
-- **Pandas** (creación, lectura/escritura de DataFrames, agrupamientos, limpieza)
-- **Data Cleaning & Visualization** (matplotlib, seaborn)
-- **Generación de dummy data** con Faker y exportación a CSV
+- **Análisis Estadistico** usando Statistics
+- **Generación de dummy data** con Faker para exportación a CSV y xlsx
+- **Cursos de Kaggle Learn** (Pandas, Data Cleaning)
 - Adaptaciones de notebooks de Kaggle
 
 ---
@@ -74,7 +74,7 @@ Ejercicios del curso de Fundamentos de Bases de Datos desarrollados con el Profe
 
 ## 🔭 ¿Qué sigue?
 
-- Completar todos los cursos de Kaggle (hasta el momentos llevo Python y Pandas)
+- Completar todos los cursos de Kaggle (hasta el momento llevo Python, Pandas y Data Cleaning)
 - Integrar **Power BI** para dashboards ejecutivos
 - Añadir más proyectos propios con datos reales o simulados
 - Mejorar continuamente la documentación y el diseño del portafolio
@@ -83,5 +83,5 @@ Ejercicios del curso de Fundamentos de Bases de Datos desarrollados con el Profe
 
 > **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales en Black Labs (Chihuahua) y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
 
-*Repositorios y secciones actualizados al 2025‑07‑15.*  
+*Repositorios y secciones actualizados al 2025‑07‑18.*  
 
