@@ -1,6 +1,6 @@
 # 📊 Data Visualization - Kaggle Learn
 
-Este repositorio contiene los ejercicios y proyecto final realizados durante el curso **"Data Visualization"** de Kaggle, una introducción práctica al uso de Python y la librería `seaborn` para visualizar datos de manera efectiva.
+Este repositorio contiene los ejercicios y proyecto final realizados durante el curso **"Data Visualization"** de Kaggle, una introducción práctica al uso de Python y la librería `seaborn`y `matplotlib para visualizar datos de manera efectiva.
 
 ---
 ## 🧠 Contenido del curso
