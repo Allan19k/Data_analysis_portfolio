@@ -34,14 +34,6 @@ Se eligió el dataset público de Kaggle [`Wine Dataset`](https://www.kaggle.com
 ![ScatterPlot](scatterplot.png)
 
 
-```python
-sns.scatterplot(
-    x=my_data['Malic acid'],
-    y=my_data['Alcohol'],
-    hue=my_data['class']
-)
-
-```
 
 Este ejercicio permitió visualizar la relación entre la acidez málica y el nivel de alcohol por clase de vino.
 
