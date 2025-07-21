@@ -10,7 +10,7 @@ Esto debido, a que existen muchas más herramientas y software que usan las empr
 
 ## 1. 🏅 Certifications
 
-Colección de certificados de cursos y programas formativos que he completado (o estoy por completar), incluidos:
+Colección de certificados de cursos y programas formativos que he completado, o estoy por completar (checklist en mi repositorio principal: **Allan19k**), incluidos:
 
 - **Kaggle Learn** (Python, Pandas, Data Cleaning, Data Visualization, SQL, Machine Learning, Geospatial Analysis etc.)
 - **Santander Open Academy** (Excel, Fundamentos de ChatGPT, Power BI)
@@ -57,7 +57,7 @@ Proyectos y ejercicios con diversas librerías:
 - **Fundamentos de Python** (sintaxis, funciones, listas, condicionales…)
 - **Análisis Estadistico** usando Statistics
 - **Generación de dummy data** con Faker para exportación a CSV y xlsx
-- **Cursos de Kaggle Learn** (Pandas, Data Cleaning)
+- **Cursos de Kaggle Learn** (Pandas, Data Cleaning y Data Visualization)
 - Adaptaciones de notebooks de Kaggle
 
 ---
@@ -74,7 +74,7 @@ Ejercicios del curso de Fundamentos de Bases de Datos desarrollados con el Profe
 
 ## 🔭 ¿Qué sigue?
 
-- Completar todos los cursos de Kaggle (hasta el momento llevo Python, Pandas y Data Cleaning)
+- Completar todos los cursos de Kaggle para reforzar SQL, Machine Learning y otros temas relacionados
 - Integrar **Power BI** para dashboards ejecutivos
 - Añadir más proyectos propios con datos reales o simulados
 - Mejorar continuamente la documentación y el diseño del portafolio
@@ -83,5 +83,5 @@ Ejercicios del curso de Fundamentos de Bases de Datos desarrollados con el Profe
 
 > **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales en Black Labs (Chihuahua) y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
 
-*Repositorios y secciones actualizados al 2025‑07‑18.*  
+*Repositorios y secciones actualizados al 2025‑07‑20.*  
 
