@@ -13,7 +13,7 @@ Fundamentos esenciales del lenguaje Python, incluyendo:
 - Estructuras como listas, diccionarios y bucles.
 - Comprensiones de listas y trabajo con librerías externas.
 
-📁 [`Python`](./Python Course)
+📁 [`Python`](./Python Projects/Kaggle Courses/Python Course)
 
 ---
 
