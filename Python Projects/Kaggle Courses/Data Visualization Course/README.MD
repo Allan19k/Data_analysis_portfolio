@@ -31,6 +31,8 @@ El curso constó de **6 lecciones** teórico-prácticas y **1 proyecto final**, 
 
 Se eligió el dataset público de Kaggle [`Wine Dataset`](https://www.kaggle.com/datasets/tawfikelmetwally/wine-dataset), y se elaboró el siguiente gráfico como parte del análisis exploratorio:
 
+![ScatterPlot](scatterplot.png)
+
 
 ```python
 sns.scatterplot(
