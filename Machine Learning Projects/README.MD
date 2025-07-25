@@ -48,7 +48,7 @@ Proyecto final desarrollado en el curso de Machine Learning. Consiste en una apl
   
 Nota: Por cuestiones de tiempo y logística, **la parte de programación no fue documentada**, ya que el desarrollo se realizó en una computadora de la facultad.
 
-📂 [`/Proyecto_Final`](./Smart Dairy Farming (Final Proyect))
+📂 [`/Proyecto_Final`](./Machine Learning Projects/Smart Dairy Farming (Final Project))
 
 ---
 
