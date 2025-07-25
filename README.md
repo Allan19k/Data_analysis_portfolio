@@ -22,7 +22,7 @@ Colección de certificados de cursos y programas formativos que he completado, o
 Proyectos de Excel aplicados a análisis y dashboarding, entre ellos:
 
 - Dashboards interactivos y formatos condicionales
-- Prácticas del curso de Excel de Santander
+- Prácticas del curso de Excel de Santander y otros ejercicios básicos
 - Ejercicios de simulación y reportes automatizados
 
 ---
