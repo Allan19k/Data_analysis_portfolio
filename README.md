@@ -35,7 +35,8 @@ Desarrollados en 7º semestre con la Dra. Graciela María de Jesús Ramírez Alo
 - **Búsqueda de hiperparámetros** (GridSearchCV con MLPClassifier sobre `load_wine`)
 - **Predicción de series temporales** (RNN vs. LSTM para EUR/USD)
 - **Transfer Learning** con ResNet50 para clasificación de imágenes
-- **Smart Dairy Farming: Milk Yield Classification App** Proyecto Final de la materia. Consiste en una aplicación móvil que utiliza un modelo de clasificación entrenado con visión por computadora para predecir niveles de producción de leche (alta, media o baja) a partir de imágenes. Fue publicado como artículo científico y demuestra la aplicación práctica del aprendizaje automático en el sector agropecuario
+- **Smart Dairy Farming: Milk Yield Classification App** (Proyecto Final de la materia)
+Consiste en una aplicación móvil que utiliza un modelo de clasificación entrenado con visión por computadora para predecir niveles de producción de leche (alta, media o baja) a partir de imágenes. Fue publicado como artículo científico y demuestra la aplicación práctica del aprendizaje automático en el sector agropecuario
 - Documentación y métricas en Jupyter Notebooks
 
 ---
