@@ -1,10 +1,11 @@
 # 📊 Data Analysis Portfolio
 
-Este repositorio (**en proceso de crecimiento**) reúne mis proyectos, ejercicios y certificaciones en **análisis de datos**, con el propósito de **aplicar a prácticas profesionales** en **Black Labs** (Chihuahua), como parte de mi formación académica en Ingeniería en ciencias de la computación 🤓.
+Este repositorio —en constante desarrollo— reúne mis proyectos, ejercicios y certificaciones en el área de **análisis de datos**, con el objetivo de **postularme a una vacante de prácticas profesionales** en **Black Labs** (Chihuahua), como parte de mi formación académica en la carrera de **Ingeniería en Ciencias de la Computación**.
 
-Aunque ya están terminadas seis secciones principales (entre ellas Python, Excel, SQL y Machine Learning, que son las herramientas que estaria usando en las practicas), lo cierto es que, este portafolio **seguirá creciendo** con nuevos cursos, herramientas y proyectos.  
+Actualmente, el portafolio incluye secciones completas de **Python**, **Excel**, **SQL** y **Machine Learning**, que corresponden directamente con las herramientas mencionadas en la vacante. Sin embargo, mi intención no es solo cumplir con lo solicitado, sino demostrar que soy una persona comprometida con el aprendizaje continuo y con la mejora constante de mis habilidades.
 
-Esto debido, a que existen muchas más herramientas y software que usan las empresas hoy en día para el Análisis de Datos, y, ya que vivimos en un mundo 🌎 en constante evolución, seguiran saliendo nuevas tecnologías cada vez mejores (las cuales incluso, podrian dejar obsoletas en cuestion de años, algunas de las que se mencionan en la vacante) y debemos aprender sobre ellas, si no queremos quedarnos "obsoletos". Por eso, sigo investigando y aprendiendo nuevas cosas. 
+Este repositorio crecerá progresivamente, incorporando nuevas tecnologías, herramientas y metodologías que son relevantes en el campo del análisis de datos. Considero fundamental mantenerse actualizado en un entorno tecnológico en constante evolución, donde las soluciones actuales pueden quedar rápidamente desfasadas. Por ello, además de consolidar lo aprendido, me esfuerzo por explorar e integrar enfoques emergentes que puedan ser de valor para la empresa en la que me desempeñe.
+
 
 ---
 
@@ -85,7 +86,7 @@ Incluí este contenido en mi portafolio porque considero fundamental **comprende
 ## 🔭 ¿Qué sigue?
 
 - Completar todos los cursos de Kaggle para reforzar SQL, Machine Learning y otros temas relacionados
-- Integrar **Power BI** para dashboards ejecutivos
+- 🔜 Integrar **Power BI** para dashboards ejecutivos (curso en proceso) 
 - Añadir más proyectos propios con datos reales o simulados
 - Mejorar continuamente la documentación y el diseño del portafolio
 
