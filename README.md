@@ -2,7 +2,7 @@
 
 Este repositorio (**en proceso de crecimiento**) reúne mis proyectos, ejercicios y certificaciones en **análisis de datos**, con el propósito de **aplicar a prácticas profesionales** en **Black Labs** (Chihuahua), como parte de mi formación académica en Ingeniería en ciencias de la computación 🤓.
 
-Aunque ya están avanzadas seis secciones principales (entre ellas Python, Excel, SQL y Machine Learning, que son las herramientas que estaria usando en las practicas), lo cierto es que, este portafolio **seguirá creciendo** con nuevos cursos, herramientas y proyectos.  
+Aunque ya están terminadas seis secciones principales (entre ellas Python, Excel, SQL y Machine Learning, que son las herramientas que estaria usando en las practicas), lo cierto es que, este portafolio **seguirá creciendo** con nuevos cursos, herramientas y proyectos.  
 
 Esto debido, a que existen muchas más herramientas y software que usan las empresas hoy en día para el Análisis de Datos, y, ya que vivimos en un mundo 🌎 en constante evolución, seguiran saliendo nuevas tecnologías cada vez mejores (las cuales incluso, podrian dejar obsoletas en cuestion de años, algunas de las que se mencionan en la vacante) y debemos aprender sobre ellas, si no queremos quedarnos "obsoletos". Por eso, sigo investigando y aprendiendo nuevas cosas. 
 
@@ -74,6 +74,14 @@ Ejercicios del curso de Fundamentos de Bases de Datos desarrollados con el Profe
 
 ---
 
+## 7. 🦾 Intro to AI Ethics (Kaggle)
+
+Curso enfocado en los principios éticos del uso de la inteligencia artificial. A través de ejemplos y casos reales, se exploraron conceptos clave como sesgos algorítmicos, privacidad, equidad y responsabilidad en sistemas automatizados.  
+
+Incluí este contenido en mi portafolio porque considero fundamental **comprender el impacto social de las herramientas que desarrollamos**. En particular, me interesa aplicar estos principios dentro del análisis de datos y proyectos de inteligencia artificial de forma ética y transparente.
+
+---
+
 ## 🔭 ¿Qué sigue?
 
 - Completar todos los cursos de Kaggle para reforzar SQL, Machine Learning y otros temas relacionados
@@ -85,5 +93,5 @@ Ejercicios del curso de Fundamentos de Bases de Datos desarrollados con el Profe
 
 > **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales en Black Labs (Chihuahua) y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
 
-*Repositorios y secciones actualizados al 2025‑07‑20.*  
+*Repositorios y secciones actualizados al 2025‑07‑26.*  
 
