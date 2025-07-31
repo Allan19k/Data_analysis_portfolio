@@ -182,7 +182,7 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 ### Ejercicio 15: Funciones_SI.xlsx
 - **Objetivo**: Calcular el importe dto (importe con descuento)  y el importe final de cada uno de los cursos enlistados
 
-    `En importe dto aplicar un descuento del 10% en caso de que la duracion del curso sea mayor a 18, si no, devolver el texto "SIN DTO"`
+    `En importe dto aplicar un descuento del 10% en caso de que la duracion del curso sea mayor a 18, si no, devolver el texto SIN DTO`
     `En importe final devolver el precio final con el descuento en donde aplique`
     
 - **Herramientas**: función SI
