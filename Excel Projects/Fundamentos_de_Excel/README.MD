@@ -150,7 +150,9 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 - **Objetivo**: Inserta una hoja con el nombre: “CALCULOS 2” y realiza los siguientes cálculos en las siguientes celdas de dicha hoja:
 
      `En B1: contar el número de cursos con importe cliente mayor de 1000`
+
      `En B2: contar el número de cursos que no estén pagados por el cliente`
+
      `En B3: contar el número de cursos donde el país no sea España`
 
 - **Herramientas**: función CONTAR.SI
@@ -159,7 +161,9 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 - **Objetivo**: Realizar los siguientes cálculos, sobre la TABLA T_CURSOS en las celdas que a continuación se indica:
 
      `En B2: contar todos los datos de la columna curso`
+
      `En B3: contar el número de cursos con importe profesor menor de 500`
+
      `En B4: sumar las duraciones`
 
 - **Herramientas**: función SUMA, CONTARA, CONTAR.SI
