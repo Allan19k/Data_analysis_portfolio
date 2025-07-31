@@ -96,11 +96,7 @@ En esta base de datos en se registran diferentes facturas y posee las siguientes
 
 - **Objetivo**: Realiza las siguientes acciones y configuraciones en los datos del documento:
 
-     `CLIENTE: CLIENTE-001, CLIENTE-003, CLIENTE-005 y CLIENTE-008`
-     `FECHA CURSO: SEIS PRIMEROS MESES DE LOS AÑOS 2019 Y 2021`
-     `DURACION: MAYOR QUE 20`
-     `PAIS: ESPAÑA e ITALIA`
-     `PAGADO CLIENTE: NO`
+  - `1. Insertar una tabla sobre el rango`
 
 - **Herramientas**: Tabla, nombre de tabla, ordenar tabla, filtros, fila de totales, segmentaciones
 
