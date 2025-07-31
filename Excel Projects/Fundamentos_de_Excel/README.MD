@@ -101,10 +101,9 @@ En esta base de datos en se registran diferentes facturas y posee las siguientes
   - `3. Ordenar la tabla por las columnas: concepto e importe cliente ambas columnas en orden ascendente`
   - `4. Mostrar la fila de totales con la siguiente configuración:`
 
-    NUMERO FACTURA CLIENTE: recuento
-    IMPORTE CLIENTE: suma
-    IMPORTE PROVEEDOR: suma
-
+    `NUMERO FACTURA CLIENTE: recuento`
+    `IMPORTE CLIENTE: suma`
+    `IMPORTE PROVEEDOR: suma`
   - `5. Insertar una tabla sobre el rango`
   - `6. Insertar una tabla sobre el rango`
   - `7. Insertar una tabla sobre el rango`
