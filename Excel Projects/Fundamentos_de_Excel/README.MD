@@ -38,9 +38,13 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 - **Instrucción**: Configurar la fila de totales totalizando las siguientes columnas con las funciones indicadas:
 
     `CURSO: Recuento`
+
     `DURACIÓN: Suma`
+
     `IMPORTE CLIENTE: Suma`
+
     `IMPORTE PROFESOR: Promedio`
+
     `FECHA CURSO: Mínimo`
 
 - **Herramientas**: Tabla y fila de totales.
@@ -49,7 +53,9 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 - **Instrucción**:  Configurar el filtro aplicado en la columna CURSO (DISEÑO, PROGRAMACIÓN y WORD). Luego filtrar las columnas de la siguiente manera:
 
     `JORNADA CURSO: MAÑANA Y TARDE`
+
     `PAGADO CLIENTE: NO`
+
     `PAÍS: ITALIA`
 
 - **Herramientas**: Tabla y filtos.
@@ -58,8 +64,11 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 - **Instrucción**: Eliminar todos los filtros y filtrar las siguientes columnas:
 
     `CURSO: WORD, EXCEL Y ACCESS`
+
     `IMPORTE CLIENTE: MENOR QUE 1000`
+
     `PAÍS: ITALIA`
+
     `JORNADA CURSO: MAÑANA Y NOCHE`
 
 - **Herramientas**: Tabla y filtros.
@@ -68,9 +77,13 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 - **Objetivo**: Quitar todos los filtros y realizar el siguiente filtro
 
      `CLIENTE: CLIENTE-001, CLIENTE-003, CLIENTE-005 y CLIENTE-008`
+
      `FECHA CURSO: SEIS PRIMEROS MESES DE LOS AÑOS 2019 Y 2021`
+
      `DURACION: MAYOR QUE 20`
+
      `PAIS: ESPAÑA e ITALIA`
+
      `PAGADO CLIENTE: NO`
 
 Consultar los resultados de la fila de totales
@@ -101,9 +114,12 @@ En esta base de datos se registran diferentes facturas y posee las siguientes co
   - `3. Ordenar la tabla por las columnas: concepto e importe cliente ambas columnas en orden ascendente`
   - `4. Mostrar la fila de totales con la siguiente configuración:`
 
-    `NUMERO FACTURA CLIENTE: recuento`
+    `NUMERO FACTURA CLIENTE: recuento
+
     `IMPORTE CLIENTE: suma`
+
     `IMPORTE PROVEEDOR: suma`
+
   - `5. Mostrar las segmentaciones de las columnas: PROVINCIA y TIPO`
   - `6. Filtrar las facturas en las provincias MADRID y BARCELONA, con FECHA FACTURA de los 4 primeros meses de los años 2019 y 2020 de TIPO INTERNO e IMPORTE CLIENTE MAYOR de 1000`
   - `7. Consultar el resultado de la fila de totales`
@@ -117,6 +133,7 @@ En esta base de datos se registran diferentes facturas y posee las siguientes co
 - **Objetivo**: Calcular la columna % BENEFICIO del ejercicio que sería: % BENEFICIO = MARGEN BENEFICIO / PRECIO COMPRA
 
      `Ajustar el formato de número para que se vea como porcentaje (%)`
+
      `Copiar la fórmula al resto de productos`
 
 - **Herramientas**: referencias relativas, operaciones aritmeticas, formato
@@ -125,7 +142,9 @@ En esta base de datos se registran diferentes facturas y posee las siguientes co
 - **Objetivo**: Calcular las columnas SUELDO BRUTO, IMPORTE RETENCION y SUELDO NETO con las siguientes fórmulas:
 
      `SUELDO BRUTO: SALARIO BASE + IMPORTE COMISION`
+
      `IMPORTE RETENCION: SUELDO BRUTO * RETENCION`
+
      `SUELDO NETO: SUELDO BRUTO – IMPORTE RETENCION`
 
 Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
@@ -136,6 +155,7 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 - **Objetivo**: Calcular las columnas BENEFICIO y % BENEFICIO con las siguientes fórmulas:
 
      `Beneficio: importe cliente – gasto`
+
      `% beneficio: beneficio / importe cliente. Aplica a esta columna un formato %`
 
 
@@ -196,7 +216,9 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 - **Objetivo**: En otra tabla dinamica mover los campos tal y como se indica:
 
     `Filtro: PAIS (filtrar por España)`
+
     `Fila: CLIENTE`
+
     `Valores: IMPORTE CLIENTE`
 
 Ordena la tabla dinámica por la suma del importe cliente de menor a mayor
