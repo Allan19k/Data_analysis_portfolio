@@ -97,6 +97,18 @@ En esta base de datos en se registran diferentes facturas y posee las siguientes
 - **Objetivo**: Realiza las siguientes acciones y configuraciones en los datos del documento:
 
   - `1. Insertar una tabla sobre el rango`
+  - `2. Nombrar la tabla con el nombre T_FACTURAS`
+  - `3. Ordenar la tabla por las columnas: concepto e importe cliente ambas columnas en orden ascendente`
+  - `4. Mostrar la fila de totales con la siguiente configuración`
+      NUMERO FACTURA CLIENTE: recuento.
+      IMPORTE CLIENTE: suma.
+      IMPORTE PROVEEDOR: suma
+  - `5. Insertar una tabla sobre el rango`
+  - `6. Insertar una tabla sobre el rango`
+  - `7. Insertar una tabla sobre el rango`
+  - `8. Insertar una tabla sobre el rango`
+  - `9. Insertar una tabla sobre el rango`
+  - `10. Insertar una tabla sobre el rango`
 
 - **Herramientas**: Tabla, nombre de tabla, ordenar tabla, filtros, fila de totales, segmentaciones
 
