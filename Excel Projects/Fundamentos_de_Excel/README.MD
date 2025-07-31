@@ -198,12 +198,12 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 
 - **Herramientas**: función BUSCARV
 
-### Ejercicio 14: [`Funcion BUSCARV Verdadero`](./Funciones_BUSCARV_Verdadero.xlsx)
+### Ejercicio 14: [`Funcion BUSCARV Verdadero`](./Funcion_BUSCARV_Verdadero.xlsx)
 - **Objetivo**: Buscar en la columna H la comisión proporcional a la cantidad de unidades vendidas en cada mes usando en el rango "Verdadero" ya que debe ser una coicidencia aproximada y no exacta. 
 
 - **Herramientas**: función BUSCARV
 
-### Ejercicio 15: [`Funcion SI`](./Funciones_SI.xlsx)
+### Ejercicio 15: [`Funcion SI`](./Funcion_SI.xlsx)
 - **Objetivo**: Calcular el importe dto (importe con descuento)  y el importe final de cada uno de los cursos enlistados
 
     `En importe dto aplicar un descuento del 10% en caso de que la duracion del curso sea mayor a 18, si no, devolver el texto "SIN DTO"`
