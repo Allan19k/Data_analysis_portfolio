@@ -34,7 +34,7 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 
 ## 🧪 Ejercicios Realizados
 
-### Ejercicio 1: [`Fila de totales`](./Fila_de_totales.xlsx): 
+### Ejercicio 1: [`Fila de totales`](./Fila_de_totales.xlsx) 
 - **Instrucción**: Configurar la fila de totales totalizando las siguientes columnas con las funciones indicadas:
 
     `CURSO: Recuento`
@@ -49,7 +49,7 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 
 - **Herramientas**: Tabla y fila de totales.
 
-### Ejercicio 2: Filtrar_datos_I.xlsx
+### Ejercicio 2: [`Filtrar datos I`](./Filtrar_datos_I.xlsx) 
 - **Instrucción**:  Configurar el filtro aplicado en la columna CURSO (DISEÑO, PROGRAMACIÓN y WORD). Luego filtrar las columnas de la siguiente manera:
 
     `JORNADA CURSO: MAÑANA Y TARDE`
@@ -60,7 +60,7 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 
 - **Herramientas**: Tabla y filtos.
 
-### Ejercicio 3: Filtrar_datos_I_2.xlsx
+### Ejercicio 3: [`Filtrar datos I_2`](./Filtrar_datos_I_2.xlsx)
 - **Instrucción**: Eliminar todos los filtros y filtrar las siguientes columnas:
 
     `CURSO: WORD, EXCEL Y ACCESS`
@@ -73,7 +73,7 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 
 - **Herramientas**: Tabla y filtros.
 
-### Ejercicio 4: Filtrar_datos_II.xlsx
+### Ejercicio 4: [`Filtrar datos II`](./Filtrar_datos_II.xlsx)
 - **Objetivo**: Quitar todos los filtros y realizar el siguiente filtro
 
      `CLIENTE: CLIENTE-001, CLIENTE-003, CLIENTE-005 y CLIENTE-008`
@@ -90,7 +90,7 @@ Consultar los resultados de la fila de totales
 
 - **Herramientas**: Tabla, filtros y fila de totales
 
-### Ejercicio 5: Mini_practica_1.xlsx
+### Ejercicio 5: [`Mini practica`](./Mini_practica_1.xlsx)
 
 En esta base de datos se registran diferentes facturas y posee las siguientes columnas:
 
@@ -129,7 +129,7 @@ En esta base de datos se registran diferentes facturas y posee las siguientes co
 
 - **Herramientas**: Tabla, nombre de tabla, ordenar tabla, filtros, fila de totales, segmentaciones
 
-### Ejercicio 6: Referencias_Relativas_y_Absolutas_I.xlsx
+### Ejercicio 6: [`Referencias Relativas y Absolutas I`](./Referencias_Relativas_y_Absolutas_I.xlsx)
 - **Objetivo**: Calcular la columna % BENEFICIO del ejercicio que sería: % BENEFICIO = MARGEN BENEFICIO / PRECIO COMPRA
 
      `Ajustar el formato de número para que se vea como porcentaje (%)`
@@ -138,7 +138,7 @@ En esta base de datos se registran diferentes facturas y posee las siguientes co
 
 - **Herramientas**: referencias relativas, operaciones aritmeticas, formato
 
-### Ejercicio 7: Referencias_Relativas_y_Absolutas_II.xlsx
+### Ejercicio 7: [`Referencias Relativas y Absolutas II`](./Referencias_Relativas_y_Absolutas_II.xlsx)
 - **Objetivo**: Calcular las columnas SUELDO BRUTO, IMPORTE RETENCION y SUELDO NETO con las siguientes fórmulas:
 
      `SUELDO BRUTO: SALARIO BASE + IMPORTE COMISION`
@@ -151,7 +151,7 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 
 - **Herramientas**: referencias absolutas, operaciones aritmeticas, formato
 
-### Ejercicio 8: Referencias_Relativas_y_Absolutas_III.xlsx
+### Ejercicio 8: [`Referencias Relativas y Absolutas III`](./Referencias_Relativas_y_Absolutas_III.xlsx)
 - **Objetivo**: Calcular las columnas BENEFICIO y % BENEFICIO con las siguientes fórmulas:
 
      `Beneficio: importe cliente – gasto`
@@ -161,12 +161,12 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 
 - **Herramientas**: tabla, referencias relativas, operaciones aritmeticas, formato
 
-### Ejercicio 9: Funciones_Vinculando_Hojas_de_Calculo_I.xlsx
+### Ejercicio 9: [`Funciones vinculando hojas de calculo I`](./Funciones_Vinculando_Hojas_de_Calculo_I.xlsx)
 - **Objetivo**: Calcular en la celda B2 la suma de las duraciones de la hoja CURSOS y en la celda B3 la suma del IMPORTE CLIENTE y del IMPORTE COMERCIAL.
 
 - **Herramientas**: función SUMA
 
-### Ejercicio 10: Funciones_Vinculando_Hojas_de_Calculo_II.xlsx
+### Ejercicio 10: [`Funciones vinculando hojas de calculo II`](./Funciones_Vinculando_Hojas_de_Calculo_II.xlsx)
 - **Objetivo**: Inserta una hoja con el nombre: “CALCULOS 2” y realiza los siguientes cálculos en las siguientes celdas de dicha hoja:
 
      `En B1: contar el número de cursos con importe cliente mayor de 1000`
@@ -177,7 +177,7 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 
 - **Herramientas**: función CONTAR.SI
 
-### Ejercicio 11: Funciones_Vinculando_Hojas_de_Calculo_III.xlsx
+### Ejercicio 11: [`Funciones vinculando hojas de calculo III`](./Funciones_Vinculando_Hojas_de_Calculo_III.xlsx)
 - **Objetivo**: Realizar los siguientes cálculos, sobre la TABLA T_CURSOS en las celdas que a continuación se indica:
 
      `En B2: contar todos los datos de la columna curso`
@@ -188,22 +188,22 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
 
 - **Herramientas**: función SUMA, CONTARA, CONTAR.SI
 
-### Ejercicio 12: Funciones_BUSCARV.xlsx
+### Ejercicio 12: [`Funcion BUSCARV `](./Funcion_BUSCARV.xlsx)
 - **Objetivo**: Buscar en las columnas D y F el precio de cada referencia y el proveedor que vende cada referencia
 
 - **Herramientas**: función BUSCARV
 
-### Ejercicio 13: Funciones_BUSCARV_con_tablas.xlsx
+### Ejercicio 13: [`Funcion BUSCARV con tablas `](./Funcion_BUSCARV_con_tablas.xlsx)
 - **Objetivo**: Usando la misma base de datos de Funciones_BUSCARV.xlsx, ahora con los datos en forma de tabla, buscar en las columnas D y F el precio de cada referencia y el proveedor que vende cada referencia
 
 - **Herramientas**: función BUSCARV
 
-### Ejercicio 14: Funciones_BUSCARV_Verdadero.xlsx
+### Ejercicio 14: [`Funcion BUSCARV Verdadero`](./Funciones_BUSCARV_Verdadero.xlsx)
 - **Objetivo**: Buscar en la columna H la comisión proporcional a la cantidad de unidades vendidas en cada mes usando en el rango "Verdadero" ya que debe ser una coicidencia aproximada y no exacta. 
 
 - **Herramientas**: función BUSCARV
 
-### Ejercicio 15: Funciones_SI.xlsx
+### Ejercicio 15: [`Funcion SI`](./Funciones_SI.xlsx)
 - **Objetivo**: Calcular el importe dto (importe con descuento)  y el importe final de cada uno de los cursos enlistados
 
     `En importe dto aplicar un descuento del 10% en caso de que la duracion del curso sea mayor a 18, si no, devolver el texto "SIN DTO"`
@@ -212,7 +212,7 @@ Ajusta bien la referencia en cada fórmula para copiarla al resto de vendedores
     
 - **Herramientas**: función SI
 
-### Ejercicio 16: Modificaciones_en_las_tablas_dinamicas.xlsx
+### Ejercicio 16: [`Modificar tablas dinamicas`](./Modificaciones_en_las_tablas_dinamicas.xlsx)
 - **Objetivo**: En otra tabla dinamica mover los campos tal y como se indica:
 
     `Filtro: PAIS (filtrar por España)`
