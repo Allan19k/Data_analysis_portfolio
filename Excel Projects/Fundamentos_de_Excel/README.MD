@@ -79,7 +79,7 @@ Consulta los resultados de la fila de totales
 
 ### Ejercicio 5: Mini_practica_1.xlsx
 
-En esta base de datos en se registran diferentes facturas y posee las siguientes columnas:
+En esta base de datos se registran diferentes facturas y posee las siguientes columnas:
 
      NUMERO FACTURA CLIENTE: se indica el número de la factura.
      CONCEPTO: el concepto que estamos facturando.
@@ -104,12 +104,12 @@ En esta base de datos en se registran diferentes facturas y posee las siguientes
     `NUMERO FACTURA CLIENTE: recuento`
     `IMPORTE CLIENTE: suma`
     `IMPORTE PROVEEDOR: suma`
-  - `5. Insertar una tabla sobre el rango`
-  - `6. Insertar una tabla sobre el rango`
-  - `7. Insertar una tabla sobre el rango`
-  - `8. Insertar una tabla sobre el rango`
-  - `9. Insertar una tabla sobre el rango`
-  - `10. Insertar una tabla sobre el rango`
+  - `5. Mostrar las segmentaciones de las columnas: PROVINCIA y TIPO`
+  - `6. Filtrar las facturas en las provincias MADRID y BARCELONA, con FECHA FACTURA de los 4 primeros meses de los años 2019 y 2020 de TIPO INTERNO e IMPORTE CLIENTE MAYOR de 1000`
+  - `7. Consultar el resultado de la fila de totales`
+  - `8. Quitar todos los filtros aplicados`
+  - `9. Ocultar la fila de totales`
+  - `10. Eliminar la segmentación del campo PROVINCIA`
 
 - **Herramientas**: Tabla, nombre de tabla, ordenar tabla, filtros, fila de totales, segmentaciones
 
