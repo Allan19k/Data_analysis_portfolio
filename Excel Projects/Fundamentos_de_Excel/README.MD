@@ -34,7 +34,7 @@ Este directorio contiene las prácticas y ejercicios realizados durante el curso
 
 ## 🧪 Ejercicios Realizados
 
-### Ejercicio 1: [`Fila de totales/`](./Fila_de_totales.xlsx): 
+### Ejercicio 1: [`Fila de totales /`](./Fila_de_totales.xlsx): 
 - **Instrucción**: Configurar la fila de totales totalizando las siguientes columnas con las funciones indicadas:
 
     `CURSO: Recuento`
