@@ -12,7 +12,6 @@ Esta sección contiene ejercicios, prácticas y aplicaciones reales en **Microso
   - Filtrado y segmentación
   - Funciones: `SI`, `BUSCARV`, `CONTAR`, `CONTAR.SI`, etc.
   - Tablas dinámicas y organización de datos
-  - Ejercicios prácticos y un dashboard básico
 
 - [`Solver/`](./Solver):  
   Ejercicio práctico de **Investigación de Operaciones** utilizando la herramienta **Solver** de Excel para **optimización lineal**.  
