@@ -14,8 +14,24 @@ Esta sección contiene ejercicios, prácticas y aplicaciones reales en **Microso
   - Tablas dinámicas y organización de datos
 
 - [`Solver/`](./Solver):  
-  Ejercicio práctico de **Investigación de Operaciones** utilizando la herramienta **Solver** de Excel para **optimización lineal**.  
+  Ejercicio práctico de **Investigación de Operaciones I** utilizando la herramienta **Solver** de Excel para **optimización lineal**.  
   Se resolvió un problema de maximización de ganancias bajo restricciones de recursos.
+
+- [`Ejercicios_Practicos/`](./Ejercicios_Practicos):  
+Demostrar el uso de Excel más allá de lo básico, aplicando funciones, herramientas y metodologías que permitan:
+
+- Analizar datos de manera eficiente.
+- Agilizar procesos repetitivos.
+- Automatizar operaciones y simulaciones.
+- Resolver escenarios reales mediante técnicas de optimización y validación.
+
+Cada ejercicio tiene su propia carpeta con:
+
+- El archivo correspondiente (`.xlsx` o `.xlsm`)
+- Un `README.md` que explica:
+  - El objetivo 🎯 
+  - Descripción del ejercicio 📝 
+  - Funciones y herramientas utilizadas 🛠️ 
 
 ---
 
@@ -25,8 +41,7 @@ A medida que avance en mi carrera y fortalezca mis habilidades de análisis de d
 
 - Dashboards con KPI’s y visualizaciones interactivas  
 - Automatización con **macros** y **VBA**  
-- Modelos de pronóstico y análisis financiero  
-- Ejercicios usando diversas funciones y herramientas propias de Excel para mejorar procesos y optimizar tiempos 
+- Modelos de pronóstico y análisis financiero   
 
 ---
 
@@ -43,4 +58,4 @@ Sientete libre de usar, modificar o aprender de estos ejemplos.
 
 ---
 
-📌 *Última actualización: Julio 2025*
+📌 *Última actualización: Agosto 2025*
