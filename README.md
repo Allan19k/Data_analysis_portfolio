@@ -22,9 +22,10 @@ Colección de certificados de cursos y programas formativos que he completado, o
 
 Proyectos de Excel aplicados a análisis y dashboarding, entre ellos:
 
+- Ejercicios básicos del curso de Excel de Santander Open Academy 
 - Dashboards interactivos y formatos condicionales
-- Prácticas del curso de Excel de Santander y otros ejercicios básicos
 - Ejercicios de simulación y reportes automatizados
+- Ejercicios de tipo intermedio y avanzado usando diversas funciones y herramientas propias de Excel 
 
 ---
 
@@ -86,6 +87,7 @@ Incluí este contenido en mi portafolio porque considero fundamental **comprende
 ## 🔭 ¿Qué sigue?
 
 - Completar todos los cursos de Kaggle para reforzar SQL, Machine Learning y otros temas relacionados
+- Realizar ejercicios de tipo Intermedio y Avanzado en Excel usando bases de datos inventadas o de Kaggle
 - 🔜 Integrar **Power BI** para dashboards ejecutivos (curso en proceso) 
 - Añadir más proyectos propios con datos reales o simulados
 - Mejorar continuamente la documentación y el diseño del portafolio
@@ -94,5 +96,5 @@ Incluí este contenido en mi portafolio porque considero fundamental **comprende
 
 > **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales en Black Labs (Chihuahua) y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
 
-*Repositorios y secciones actualizados al 2025‑07‑26.*  
+*Repositorios y secciones actualizados al 2025‑08‑06.*  
 
