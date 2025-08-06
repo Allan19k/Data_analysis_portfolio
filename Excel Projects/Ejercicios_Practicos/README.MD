@@ -4,7 +4,7 @@ Esta sección forma parte del portafolio de análisis de datos, y tiene como obj
 
 ## 🎯 Objetivo
 
-Demostrar el uso de Excel más allá de lo básico, aplicando funciones, herramientas y metodologías que permitan:
+Demostrar tener un nivel intermedio y más adelante de tipo avanzado en el uso de Excel, aplicando diversas funciones, herramientas y metodologías que permitan:
 
 - Analizar datos de manera eficiente.
 - Agilizar procesos repetitivos.
