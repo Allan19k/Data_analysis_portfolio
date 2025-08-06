@@ -20,10 +20,10 @@ Esta sección contiene ejercicios, prácticas y aplicaciones reales en **Microso
 - [`Ejercicios_Practicos/`](./Ejercicios_Practicos):  
 Demostrar el uso de Excel más allá de lo básico, aplicando funciones, herramientas y metodologías que permitan:
 
-- Analizar datos de manera eficiente.
-- Agilizar procesos repetitivos.
-- Automatizar operaciones y simulaciones.
-- Resolver escenarios reales mediante técnicas de optimización y validación.
+  - Analizar datos de manera eficiente.
+  - Agilizar procesos repetitivos.
+  - Automatizar operaciones y simulaciones.
+  - Resolver escenarios reales mediante técnicas de optimización y validación.
 
 Cada ejercicio tiene su propia carpeta con:
 
