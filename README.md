@@ -87,8 +87,9 @@ Incluí este contenido en mi portafolio porque considero fundamental **comprende
 ## 🚧 🧭 En Proceso
 
 - Completar todos los cursos de Kaggle para reforzar SQL, Machine Learning y otros temas relacionados
+- Agregar nuevas herramientas que se usan actualmente en el Análisis de datos
 - Realizar ejercicios de tipo Intermedio y Avanzado en Excel usando bases de datos inventadas o de Kaggle
-- 🔜 Integrar las secciónes de **Power BI** para dashboards ejecutivos (curso en proceso) y de Data Science (materia optativa que estoy llevado este semestre con la Dra. Olanda Prieto Ordaz) 
+- 🔜 Integrar las secciónes de **Power BI** para dashboards ejecutivos (curso en proceso) y de Data Science (materia optativa que estoy llevado este semestre con la Dra. Olanda Prieto       Ordaz) 
 - Añadir más proyectos propios con datos reales o simulados
 - Mejorar continuamente la documentación y el diseño del portafolio
 
