@@ -84,17 +84,17 @@ Incluí este contenido en mi portafolio porque considero fundamental **comprende
 
 ---
 
-## 🔭 ¿Qué sigue?
+## 🚧 🧭 En Proceso
 
 - Completar todos los cursos de Kaggle para reforzar SQL, Machine Learning y otros temas relacionados
 - Realizar ejercicios de tipo Intermedio y Avanzado en Excel usando bases de datos inventadas o de Kaggle
-- 🔜 Integrar **Power BI** para dashboards ejecutivos (curso en proceso) 
-- Añadir más proyectos propios con datos reales o simulados (Data Science)
+- 🔜 Integrar las secciónes de **Power BI** para dashboards ejecutivos (curso en proceso) y de Data Science (materia optativa que estoy llevado este semestre con la Dra. Olanda Prieto Ordaz) 
+- Añadir más proyectos propios con datos reales o simulados
 - Mejorar continuamente la documentación y el diseño del portafolio
 
 ---
 
 > **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales en Black Labs (Chihuahua) y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
 
-*Repositorios y secciones actualizados al 2025‑08‑13.*  
+*Repositorios y secciones actualizados al 2025‑08‑20.*  
 
