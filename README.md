@@ -20,7 +20,7 @@ Colección de certificados de cursos y programas formativos que he completado, o
 
 ## 2. 📈 Excel Projects
 
-Proyectos de Excel aplicados a análisis y dashboarding, entre ellos:
+Ejercicios de Excel aplicados a análisis y dashboarding (en proceso), entre ellos:
 
 - Ejercicios básicos del curso de Excel de Santander Open Academy 
 - Dashboards interactivos y formatos condicionales
@@ -76,11 +76,18 @@ Ejercicios del curso de Fundamentos de Bases de Datos desarrollados con el Profe
 
 ---
 
-## 7. 🦾 Intro to AI Ethics (Kaggle)
+## 7. 🦾 Intro to AI Ethics
 
-Curso enfocado en los principios éticos del uso de la inteligencia artificial. A través de ejemplos y casos reales, se exploraron conceptos clave como sesgos algorítmicos, privacidad, equidad y responsabilidad en sistemas automatizados.  
+Curso de Kaggle Learn enfocado en los principios éticos del uso de la inteligencia artificial. A través de ejemplos y casos reales, se exploraron conceptos clave como sesgos algorítmicos, privacidad, equidad y responsabilidad en sistemas automatizados.  
 
 Incluí este contenido en mi portafolio porque considero fundamental **comprender el impacto social de las herramientas que desarrollamos**. En particular, me interesa aplicar estos principios dentro del análisis de datos y proyectos de inteligencia artificial de forma ética y transparente.
+
+---
+
+## 8. 📊 Power BI Projects
+
+Proyectos y ejercicios realizados con Microsoft Power BI, aplicando importación de datos, creación de informes interactivos, filtros, formatos condicionales y transformaciones con Power Query, como parte del curso Fundamentos de Power BI – Santander Open Academy, así como otros ejercicios que haga más adelante, para reforzar los conocimientos que adquiri del curso en cuestión o proyectos más elaborados. 
+
 
 ---
 
@@ -89,7 +96,7 @@ Incluí este contenido en mi portafolio porque considero fundamental **comprende
 - Completar todos los cursos de Kaggle para reforzar SQL, Machine Learning y otros temas relacionados
 - Agregar nuevas herramientas que se usan actualmente en el Análisis de datos
 - Realizar ejercicios de tipo Intermedio y Avanzado en Excel usando bases de datos inventadas o de Kaggle
-- 🔜 Integrar las secciónes de **Power BI** para dashboards ejecutivos (curso en proceso) y de Data Science (materia optativa que estoy llevado este semestre con la Dra. Olanda Prieto       Ordaz) 
+- 🔜 Integrar las sección de  Data Science (materia optativa que estoy llevado este semestre con la Dra. Olanda Prieto Ordaz) 
 - Añadir más proyectos propios con datos reales o simulados
 - Mejorar continuamente la documentación y el diseño del portafolio
 
@@ -97,5 +104,5 @@ Incluí este contenido en mi portafolio porque considero fundamental **comprende
 
 > **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales en Black Labs (Chihuahua) y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
 
-*Repositorios y secciones actualizados al 2025‑08‑20.*  
+*Repositorios y secciones actualizados al 2025‑08‑29.*  
 
