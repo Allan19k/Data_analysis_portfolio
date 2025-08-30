@@ -3,6 +3,7 @@
 En esta sección documento mis avances y proyectos realizados con **Microsoft Power BI**, herramienta fundamental para la **creación de reportes dinámicos y análisis visual de datos**.  
 Aunque dicha herramienta, no se menciona en la vacante a la que aspiro a aplicar, decidí incluirla, ya que me considero una persona, 
 que le gusta aprender a usar múltiples tecnologías y herramientas, que pueden ayudar a automatizar procesos y tareas repetitivas etc.
+
 ---
 
 ## 📝 Curso: Fundamentos de Power BI (Santander Open Academy)  
