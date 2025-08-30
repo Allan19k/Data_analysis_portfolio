@@ -130,10 +130,16 @@ Guardar los cambios y cerrar el fichero.
 
 Guardar los cambios y cerrar el fichero.
 
-### Practica 6: 
+### Practica 6: Insertar un gráfico de barras agrupadas en la página FILTROS del fichero BD CURSOS que muestre:
+
+    EJE Y: CLIENTE
+    EJE X: SUMA DE IMPORTE CLIENTE
+
+A continuación, filtrar el gráfico por los dos clientes de ESPAÑA con la suma del importe cliente más alta.
+Guardar los cambios y cerrar el fichero.
 
 
-### Practica 7: 
+### Practica 7: Aplicar un formato condicional al campo CURSO para poner la fuente en color azul de los cursos cuya SUMA DE DURACION es mayor de 1200
 
 
 ---
