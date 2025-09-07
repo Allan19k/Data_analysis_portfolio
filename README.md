@@ -102,7 +102,7 @@ Proyectos y ejercicios realizados con Microsoft Power BI, aplicando importación
 
 ---
 
-> **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales en Black Labs (Chihuahua) y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
+> **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
 
 *Repositorios y secciones actualizados al 2025‑08‑29.*  
 
