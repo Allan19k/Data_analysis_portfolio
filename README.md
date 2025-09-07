@@ -1,6 +1,6 @@
 # 📊 Data Analysis Portfolio
 
-Este repositorio —en constante desarrollo— reúne mis proyectos, ejercicios y certificaciones en el área de **análisis de datos**, con el objetivo de **postularme a una vacante de prácticas profesionales** en **Black Labs** (Chihuahua), como parte de mi formación académica en la carrera de **Ingeniería en Ciencias de la Computación**.
+Este repositorio —en constante desarrollo— reúne mis proyectos, ejercicios y certificaciones en el área de **análisis de datos**, con el objetivo de **postularme a una vacante para prácticas profesionales**, como parte de mi formación académica en la carrera de **Ingeniería en Ciencias de la Computación**.
 
 Actualmente, el portafolio incluye secciones completas de **Python**, **Excel**, **SQL** y **Machine Learning**, que corresponden directamente con las herramientas mencionadas en la vacante. Sin embargo, mi intención no es solo cumplir con lo solicitado, sino demostrar que soy una persona comprometida con el aprendizaje continuo y con la mejora constante de mis habilidades.
 
