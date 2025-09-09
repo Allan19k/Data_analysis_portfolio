@@ -91,6 +91,12 @@ Proyectos y ejercicios realizados con Microsoft Power BI, aplicando importación
 
 ---
 
+## 9. 🥼 Data Science
+
+Materia optativa de 8º semestre en curso que estoy llevando con la Dra. Olanda Prieto Ordaz 
+
+---
+
 ## 🚧 🧭 En Proceso
 
 - Completar todos los cursos de Kaggle para reforzar SQL, Machine Learning y otros temas relacionados
@@ -104,5 +110,5 @@ Proyectos y ejercicios realizados con Microsoft Power BI, aplicando importación
 
 > **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
 
-*Repositorios y secciones actualizados al 2025‑08‑29.*  
+*Repositorios y secciones actualizados al 2025‑09‑08.*  
 
