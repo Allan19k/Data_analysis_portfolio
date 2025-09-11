@@ -40,11 +40,12 @@ Se entrenaron tres modelos (Regresión Lineal, Decision Tree y Random Forest), s
 
 ## ⚙️ Hiperparámetros (ejemplos y justificación)
 
-### Regresión Lineal
+### 🔹 Regresión Lineal
 - No hay muchos hiperparámetros a optimizar en `LinearRegression` (es un baseline). Se usó como referencia.
 
-### Decision Tree Regressor (parámetros explorados)
+### 🔹 Decision Tree Regressor (parámetros explorados)
 
+```python 
 param_distribs = {
   "max_depth": [None, 10, 20, 30,40,50],
   "min_samples_split": [2, 5, 10],
