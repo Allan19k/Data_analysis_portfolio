@@ -130,8 +130,37 @@ print(f"Modelo y pipeline guardados en el directorio: {model_dir}")
 ### 📲 Uso de la app de streamlit (app.py)
 
 1. Coloca best_random_forest_model.pkl y full_pipeline.pkl en la carpeta indicada por model_dir (por defecto en app.py está C:/StreamlitApp/saved_models — cambia según tu máquina)
-2. Instala dependencias (streamlit) y ejecuta en cmd lo siguiente: streamlit run `ruta completa del archivo .py`
+2. Instala dependencias (streamlit) y ejecuta en cmd lo siguiente: streamlit run `ruta completa del archivo .py` (se recomienda guardarlo en C:, para que sea más fácil a la hora de meter la ruta completa del archivo y evitar problemas)
 3. En la interfaz podrás introducir valores para las features (longitud, latitud, median_income, total_rooms, total_bedrooms, population, households, housing_median_age y ocean_proximity) y pulsar Predecir Valor de la Vivienda.
+
+### 📌 Documentación técnica de app.py (funcionalidad principal)
+
+CombinedAttributesAdder: Transformer personalizado que crea atributos combinados:
+
+rooms_per_household = total_rooms / households
+
+population_per_household = population / households
+
+bedrooms_per_room = total_bedrooms / total_rooms (opcional)
+
+Esto replica exactamente las transformaciones que se usaron durante el entrenamiento para mantener coherencia entre entrenamiento y predicción.
+
+Carga de pipeline y modelo:
+
+full_pipeline realiza las mismas transformaciones que se definieron y guardaron durante el entrenamiento.
+
+best_model es el estimador final (Random Forest en este caso).
+
+Flujo de predicción:
+
+El usuario ingresa los valores en la UI de Streamlit.
+
+input_data se transforma con full_pipeline.transform.
+
+best_model.predict devuelve la predicción final (valor medio de la vivienda).
+
+Mensajes de estado: st.success / st.error para feedback al usuario. Si la carga del modelo falla, la app se detiene con st.stop().
+
 
 
 
