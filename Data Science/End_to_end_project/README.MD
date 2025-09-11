@@ -142,7 +142,7 @@ print(f"Modelo y pipeline guardados en el directorio: {model_dir}")
 ### 📲 Uso de la app de streamlit (app.py)
 
 1. Coloca best_random_forest_model.pkl y full_pipeline.pkl en la carpeta indicada por model_dir (por defecto en app.py está C:/StreamlitApp/saved_models — cambia según tu máquina)
-2. Instala dependencias (streamlit) y ejecuta en cmd lo siguiente: streamlit run `ruta completa del archivo .py` (se recomienda guardarlo en C:, para que sea más fácil a la hora de meter la ruta completa del archivo y evitar problemas)
+2. Instala dependencias (streamlit) y ejecuta en cmd lo siguiente: streamlit run `ruta completa del archivo .py` (se recomienda guardarlo en C: , para que sea más fácil a la hora de meter la ruta completa del archivo y evitar problemas)
 3. En la interfaz podrás introducir valores para las features (longitud, latitud, median_income, total_rooms, total_bedrooms, population, households, housing_median_age y ocean_proximity) y pulsar Predecir Valor de la Vivienda.
 
 ### 📌 Documentación técnica de app.py (funcionalidad principal)
