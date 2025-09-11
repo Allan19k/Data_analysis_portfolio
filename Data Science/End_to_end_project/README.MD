@@ -52,7 +52,7 @@ param_distribs = {
   "min_samples_leaf": [1, 2, 4],
 }
 
-´´´python 
+´´´
 
 Por qué: 
 
