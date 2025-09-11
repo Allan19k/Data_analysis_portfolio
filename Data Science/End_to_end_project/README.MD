@@ -147,31 +147,33 @@ print(f"Modelo y pipeline guardados en el directorio: {model_dir}")
 
 ### 📌 Documentación técnica de app.py (funcionalidad principal)
 
-      - CombinedAttributesAdder: Transformer personalizado que crea atributos combinados:
+- CombinedAttributesAdder: Transformer personalizado que crea atributos combinados:
 
+```
 rooms_per_household = total_rooms / households
 
 population_per_household = population / households
 
 bedrooms_per_room = total_bedrooms / total_rooms (opcional)
 
+```
 Esto replica exactamente las transformaciones que se usaron durante el entrenamiento para mantener coherencia entre entrenamiento y predicción.
 
-Carga de pipeline y modelo:
+- Carga de pipeline y modelo: 
 
-full_pipeline realiza las mismas transformaciones que se definieron y guardaron durante el entrenamiento.
+      full_pipeline realiza las mismas transformaciones que se definieron y guardaron durante el entrenamiento.
 
-best_model es el estimador final (Random Forest en este caso).
+      best_model es el estimador final (Random Forest en este caso).
 
-Flujo de predicción:
+- Flujo de predicción:
 
-El usuario ingresa los valores en la UI de Streamlit.
+1. El usuario ingresa los valores en la UI de Streamlit.
 
-input_data se transforma con full_pipeline.transform.
+2. input_data se transforma con full_pipeline.transform.
 
-best_model.predict devuelve la predicción final (valor medio de la vivienda).
+3. best_model.predict devuelve la predicción final (valor medio de la vivienda).
 
-Mensajes de estado: st.success / st.error para feedback al usuario. Si la carga del modelo falla, la app se detiene con st.stop().
+- Mensajes de estado: st.success / st.error para feedback al usuario. Si la carga del modelo falla, la app se detiene con st.stop().
 
 
 
