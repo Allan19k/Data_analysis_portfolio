@@ -45,7 +45,7 @@ Se entrenaron tres modelos (Regresión Lineal, Decision Tree y Random Forest), s
 
 ### 🔹 Decision Tree Regressor (parámetros explorados)
 
-```python 
+``` 
 param_distribs = {
   "max_depth": [None, 10, 20, 30,40,50],
   "min_samples_split": [2, 5, 10],
@@ -53,15 +53,15 @@ param_distribs = {
 }
 ```
 
-
 Por qué: 
 
-max_depth controla complejidad y sobreajuste.
+- max_depth controla complejidad y sobreajuste.
 
-min_samples_split y min_samples_leaf evitan hojas con muy pocos datos (reduce varianza).
+- min_samples_split y min_samples_leaf evitan hojas con muy pocos datos (reduce varianza).
 
-### Random Forest Regressor (parámetros explorados)
+### 🔹 Random Forest Regressor (parámetros explorados)
 
+```
 param_distribs_rf = {
     'n_estimators': [3, 10, 30, 100, 300],
     'max_features': [2, 4, 6, 8, 10, 12],
@@ -69,6 +69,7 @@ param_distribs_rf = {
     'min_samples_split': [2, 5, 10],
     'min_samples_leaf': [1, 2, 4],
 }
+```
 
 Por qué:
 
@@ -85,6 +86,8 @@ Se usó RandomizedSearchCV porque:
 - Es eficiente cuando algunas combinaciones tienen poco sentido o el espacio es grande.
 
 ### 🧮 Evaluación (calcular RMSE)
+
+```
 
 import pandas as pd
 
@@ -108,10 +111,13 @@ best_rmse = comparison_df.iloc[0]['Test RMSE']
 
 print(f"\nEl mejor modelo basado en el Test RMSE es: {best_model_name} con un RMSE de {best_rmse:.2f}")
 
-"El mejor modelo basado en el Test RMSE es: Random Forest con un RMSE de 46869.40"
+```
+
+ ✅ El mejor modelo basado en el Test RMSE es: Random Forest con un RMSE de 46869.40
 
 ### 🧩 Guardar / Cargar modelo 
 
+```
 import joblib
 import os
 
@@ -129,6 +135,8 @@ Save the full pipeline (including preprocessing)
 joblib.dump(full_pipeline, os.path.join(model_dir, "full_pipeline.pkl"))
 
 print(f"Modelo y pipeline guardados en el directorio: {model_dir}")
+
+```
 
 ### 📲 Uso de la app de streamlit (app.py)
 
