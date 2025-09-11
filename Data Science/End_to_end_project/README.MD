@@ -175,6 +175,43 @@ Esto replica exactamente las transformaciones que se usaron durante el entrenami
 
 - Mensajes de estado: st.success / st.error para feedback al usuario. Si la carga del modelo falla, la app se detiene con st.stop().
 
+## 🛠️ Librerias usadas
+
+         pandas 
+         numpy
+         sklearn
+         joblib
+         streamlit
+         matplotlib
+         os
+         tarfile
+         urllib
+         shutil
+         google.colab
+
+## ✅ Reproducción rápida
+
+1. Clona el repo y abre el notebook "End_to_end_project.ipynb"
+2. Ejecuta EDA y pipelines (celdas). Ajusta hyperparam grids si quieres mayor búsqueda.
+3. Ejecuta "RandomizedSearchCV" para cada modelo, guarda "best_estimator_".
+4. Guarda "full_pipeline" y "best_model" con "joblib".
+5. Copia ambos ".pkl" en la ruta configurada por "app.py".
+6. Ejecuta "streamlit run ruta_completa_del_archivo.py" y prueba la app local.
+
+## ✍️ Conclusión y recomendaciones
+
+- Regularizar (Random Search) permitió explorar combinaciones de hiperparámetros manteniendo coste computacional razonable.
+
+- Random Forest suele ofrecer buen balance entre sesgo/varianza en problemas tabulares como el de housing.
+
+- Para producción, considerar validación temporal o técnicas de validación adicionales y pruebas con datos nuevos (backtesting).
+
+- Documentar cada experimento (parámetros probados, RMSE train/test, tiempo de entrenamiento) ayuda a justificar la elección del modelo.
+
+
+
+
+
 
 
 
