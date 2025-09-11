@@ -93,6 +93,7 @@ import pandas as pd
 
 Crear un DataFrame para comparar los resultados de los modelos en el conjunto de prueba
 Asegúrate de que las variables lin_rmse_test, tree_rmse_test y forest_rmse_test_rs existan de celdas anteriores
+
 comparison_data = {'Model': ['Linear Regression', 'Decision Tree', 'Random Forest'],
                    'Test RMSE': [lin_rmse_test, tree_rmse_test, forest_rmse_test_rs]}
 comparison_df = pd.DataFrame(comparison_data)
@@ -146,7 +147,7 @@ print(f"Modelo y pipeline guardados en el directorio: {model_dir}")
 
 ### 📌 Documentación técnica de app.py (funcionalidad principal)
 
-CombinedAttributesAdder: Transformer personalizado que crea atributos combinados:
+      - CombinedAttributesAdder: Transformer personalizado que crea atributos combinados:
 
 rooms_per_household = total_rooms / households
 
