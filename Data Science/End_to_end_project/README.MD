@@ -51,7 +51,9 @@ param_distribs = {
   "min_samples_split": [2, 5, 10],
   "min_samples_leaf": [1, 2, 4],
 }
-´´´ 
+
+´´´python 
+
 Por qué: 
 
 max_depth controla complejidad y sobreajuste.
