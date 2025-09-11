@@ -85,19 +85,21 @@ Se usó RandomizedSearchCV porque:
 
 import pandas as pd
 
-# Crear un DataFrame para comparar los resultados de los modelos en el conjunto de prueba
-# Asegúrate de que las variables lin_rmse_test, tree_rmse_test y forest_rmse_test_rs existan de celdas anteriores
+Crear un DataFrame para comparar los resultados de los modelos en el conjunto de prueba
+Asegúrate de que las variables lin_rmse_test, tree_rmse_test y forest_rmse_test_rs existan de celdas anteriores
 comparison_data = {'Model': ['Linear Regression', 'Decision Tree', 'Random Forest'],
                    'Test RMSE': [lin_rmse_test, tree_rmse_test, forest_rmse_test_rs]}
 comparison_df = pd.DataFrame(comparison_data)
 
-# Ordenar por Test RMSE para encontrar el mejor modelo (menor RMSE es mejor)
+Ordenar por Test RMSE para encontrar el mejor modelo (menor RMSE es mejor)
+
 comparison_df = comparison_df.sort_values(by='Test RMSE')
 
 print("Comparación de modelos (RMSE en el conjunto de prueba):")
 display(comparison_df)
 
-# Identificar el mejor modelo
+Identificar el mejor modelo
+
 best_model_name = comparison_df.iloc[0]['Model']
 best_rmse = comparison_df.iloc[0]['Test RMSE']
 
@@ -110,19 +112,26 @@ print(f"\nEl mejor modelo basado en el Test RMSE es: {best_model_name} con un RM
 import joblib
 import os
 
-# Define the directory to save the model and pipeline
+Define the directory to save the model and pipeline
+
 model_dir = "saved_models"
 os.makedirs(model_dir, exist_ok=True)
 
-# Save the best Random Forest model
+Save the best Random Forest model
+
 joblib.dump(best_forest_reg_rs, os.path.join(model_dir, "best_random_forest_model.pkl"))
 
-# Save the full pipeline (including preprocessing)
+Save the full pipeline (including preprocessing)
+
 joblib.dump(full_pipeline, os.path.join(model_dir, "full_pipeline.pkl"))
 
 print(f"Modelo y pipeline guardados en el directorio: {model_dir}")
 
 ### 📲 Uso de la app de streamlit (app.py)
+
+1. Coloca best_random_forest_model.pkl y full_pipeline.pkl en la carpeta indicada por model_dir (por defecto en app.py está C:/StreamlitApp/saved_models — cambia según tu máquina)
+2. Instala dependencias (streamlit) y ejecuta en cmd lo siguiente: streamlit run `ruta completa del archivo .py`
+3. En la interfaz podrás introducir valores para las features (longitud, latitud, median_income, total_rooms, total_bedrooms, population, households, housing_median_age y ocean_proximity) y pulsar Predecir Valor de la Vivienda.
 
 
 
