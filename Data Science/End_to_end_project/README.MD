@@ -41,7 +41,7 @@ Se entrenaron tres modelos (Regresión Lineal, Decision Tree y Random Forest), s
 ## ⚙️ Hiperparámetros (ejemplos y justificación)
 
 ### 🔹 Regresión Lineal
-- No hay muchos hiperparámetros a optimizar en `LinearRegression` (es un baseline). Se usó como referencia.
+- No hay muchos hiperparámetros a optimizar en `LinearRegression` (es un baseline).
 
 ### 🔹 Decision Tree Regressor (parámetros explorados)
 
