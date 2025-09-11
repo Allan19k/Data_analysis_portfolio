@@ -208,6 +208,18 @@ Esto replica exactamente las transformaciones que se usaron durante el entrenami
 
 - Documentar cada experimento (parámetros probados, RMSE train/test, tiempo de entrenamiento) ayuda a justificar la elección del modelo.
 
+- **Por qué Random Search**: permite muestrear aleatoriamente combinaciones útiles en espacios grandes (cuando GridSearch sería demasiado costoso). Es una estrategia práctica para prototipos y proyectos académicos.  
+
+- **Elección de hiperparámetros**: se priorizaron parámetros que controlan complejidad (`max_depth`, `min_samples_leaf`) y estabilidad (`n_estimators`, `max_features`) porque influyen directamente en sobreajuste y generalización. 
+
+- **Pipeline**: imprescindible para evitar *data leakage* y asegurar que el preprocesamiento sea idéntico durante entrenamiento y producción. Por eso se guarda el `full_pipeline.pkl`.  
+
+- **Streamlit**: herramienta ligera para desplegar prototipos locales — ideal para demo de proyecto end-to-end.
+
+⚠️ **Nota importante:**  
+Los modelos generados en este proyecto no se incluyen en el repositorio debido a su tamaño, ya que GitHub no está diseñado para manejar archivos grandes (más de 25 MB).
+
+
 
 
 
