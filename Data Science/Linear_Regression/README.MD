@@ -35,7 +35,7 @@ El ejercicio incluye: partición Train/Test, exploración de datos, creación de
     - Limpieza y transformación de los datos, incluyendo el manejo de valores inconsistentes, la codificación de variables categóricas y el escalado de características numéricas para preparar los datos para los modelos de Machine Learning.
 
 5.📉 **Implementación de modelo de Regresión Lineal** 
-      - Entrenamiento y evaluación de un modelo de Regresión Lineal simple utilizando validación cruzada.
+    - Entrenamiento y evaluación de un modelo de Regresión Lineal simple utilizando validación cruzada.
 
 6. 📈 **Implementación y optimización de modelo Ridge** 
    - Implementación de un modelo de Regresión Ridge y uso de Grid Search para encontrar los mejores hiperparámetros, evaluando su rendimiento también con validación cruzada.
