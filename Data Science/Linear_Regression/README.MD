@@ -19,7 +19,8 @@ El ejercicio incluye: partición Train/Test, exploración de datos, creación de
 
          1.  Crear un directorio .kaggle en el directorio principal del usuario (~/.kaggle).
          2.  Copiar el archivo kaggle.json (que previamente se descargó desde la configuración de la cuenta de Kaggle) a este nuevo    directorio.
-         3.  Cambiar los permisos del archivo kaggle.json para asegurarse de que solo el propietario pueda leer y escribir en él (chmod 600 ~/.kaggle/kaggle.json). Esto es crucial por razones de seguridad para proteger las credenciales
+         3.  Cambiar los permisos del archivo kaggle.json para asegurarse de que solo el propietario pueda leer y escribir en él (chmod 600 ~/.kaggle/kaggle.json). Esto es crucial por razones de seguridad para proteger las credenciales.
+      - Descarga del Dataset: Una vez configurada la autenticación, se utilizó el comando kaggle datasets download para descargar el dataset específico (deepcontractor/car-price-prediction-challenge). Se especificó el directorio de destino (-p /content/dataset) donde se guardaría el archivo zip descargado y se añadió la opción --unzip para descomprimir automáticamente el archivo después de la descarga.
 
 2. **Partición Train / Test**  
    - Se dividió el dataset en **80% Train** y **20% Test**, manteniendo el conjunto de test intacto hasta la evaluación final.
