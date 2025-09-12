@@ -14,7 +14,12 @@ El ejercicio incluye: partición Train/Test, exploración de datos, creación de
 ## Estructura del trabajo
 1. **Obtención de los datos**  
    - Para obtener la base de datos directamente desde Kaggle, se siguieron los siguientes pasos:
-      - Instalación de la librería de Kaggle: Se instaló la librería kaggle usando pip, que es la herramienta oficial para interactuar con la API de Kaggle desde Python. Esto permite ejecutar comandos de Kaggle directamente en el entorno.
+      - Instalación de la librería de Kaggle: Se instaló la librería kaggle usando pip, que es la herramienta oficial para interactuar            con la API de Kaggle desde Python. Esto permite ejecutar comandos de Kaggle directamente en el entorno.
+      - Configuración de la API de Kaggle: Para que la librería de Kaggle pueda autenticarse y descargar datasets, se necesita un archivo kaggle.json. Este archivo contiene las credenciales de la cuenta de Kaggle. El proceso implica:
+
+- Crear un directorio .kaggle en el directorio principal del usuario (~/.kaggle).
+- Copiar el archivo kaggle.json (que previamente se descargó desde la configuración de la cuenta de Kaggle) a este nuevo directorio.
+- Cambiar los permisos del archivo kaggle.json para asegurarse de que solo el propietario pueda leer y escribir en él (chmod 600 ~/.kaggle/kaggle.json). Esto es crucial por razones de seguridad para proteger las credenciales
 
 2. **Partición Train / Test**  
    - Se dividió el dataset en **80% Train** y **20% Test**, manteniendo el conjunto de test intacto hasta la evaluación final.
