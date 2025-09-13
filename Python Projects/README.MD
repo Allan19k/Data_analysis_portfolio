@@ -8,6 +8,7 @@ Cada tema refleja el uso de herramientas clave en el ecosistema de ciencia de da
 ## 🧠 Objetivo general
 
 Desarrollar habilidades prácticas para resolver problemas de análisis de datos mediante el uso de Python y sus principales librerías, como `pandas`, `numpy`, `matplotlib`, `seaborn` y `statistics`, abordando desde tareas de limpieza y manipulación de datos hasta visualización y análisis exploratorio.
+Asimismo, experimentar con **scraping** y **uso de hilos (threading)** para tareas de automatización y descarga de información, mostrando cómo estas herramientas también se aplican en flujos reales de ciencia de datos.
 
 ---
 
