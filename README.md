@@ -62,6 +62,7 @@ Proyectos y ejercicios con diversas librerías:
 - **Análisis Estadistico** usando Statistics
 - **Generación de dummy data** con Faker para exportación a CSV y xlsx
 - **Cursos de Kaggle Learn** (Pandas, Data Cleaning y Data Visualization)
+- **Scraping y automatización** (automatizar la obtención de datos desde distintas fuentes (APIs o web scraping) aplicando hilos para mejorar el rendimiento)
 - Adaptaciones de notebooks de Kaggle
 
 ---
