@@ -47,7 +47,7 @@ El ejercicio incluye: partición Train/Test, exploración de datos, creación de
 8. 📋 **Conclusiones**
    - Se describen los hallazgos encontrados: si la regularización mejoró el rendimiento  y recomendaciones para pasos siguientes (más datos, ingeniería de features, modelos no lineales, etc.). 
 
-## 🚀 Conclusiones y recomendaciones 
+## 🚀 Conclusiones y recomendaciones
 
 1. La regresión lineal sirve como baseline sólido para entender relaciones entre características y el precio.
 
@@ -56,6 +56,12 @@ El ejercicio incluye: partición Train/Test, exploración de datos, creación de
 3. La calidad del preprocesamiento (imputación y escalado) impactó claramente en el rendimiento final.
 
 4. Para mejorar el modelo seria necesario experimentar con modelos no lineales como Random Forest o XGBoost
+
+## **NOTA:** durante la revisión del proyecto se detectaron algunos errores y recomendaciones, las cuales se enlistan aquí abajo
+
+-Se elimina columna por considerar "irrelevante",  aqui es necesario justificar bien cuando eliminamos un atributo, es decir buscar un fundamento que justifique el eliminar la columna ya sea por otros trabajos relacionados, pruebas estadísticas, etc.
+
+-Se realizó la partición de los datos 80% -20% pero sin considerar la estratificación de acuerdo a la etiqueta.
 
 
 
