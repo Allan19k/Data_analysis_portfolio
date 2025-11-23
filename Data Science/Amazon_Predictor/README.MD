@@ -68,9 +68,9 @@ Histogramas / KDE para visualizar rangos y tendencias.
 
 ✔ Correlaciones
 
-Se construyó una matriz de correlación para identificar relaciones entre variables.
+    - Se construyó una matriz de correlación para identificar relaciones entre variables.
 
-Adj Close correlacionado fuertemente con Close, High, Low → esperado.
+    - Adj Close correlacionado fuertemente con Close, High, Low → esperado.
 
 ✔ Detección de valores nulos
 
@@ -78,13 +78,13 @@ El dataset no presentó valores faltantes, lo que facilitó el preprocesamiento.
 
 ✔ Visualizaciones clave
 
-Línea de tiempo del precio Adj Close.
+    - Línea de tiempo del precio Adj Close.
 
-Volumen negociado a lo largo del tiempo.
+    - Volumen negociado a lo largo del tiempo.
 
-Comparación entre precios diarios (Open/High/Low/Close).
+    - Comparación entre precios diarios (Open/High/Low/Close).
 
-Gráfico OHLC para análisis financiero tradicional.
+    - Gráfico OHLC para análisis financiero tradicional.
 
 ---
 
@@ -94,11 +94,11 @@ Gráfico OHLC para análisis financiero tradicional.
 
 Las series de tiempo requieren capturar dependencia temporal:
 
-Adj Close_Lag1 (1 día previo)
+- Adj Close_Lag1 (1 día previo)
 
-Adj Close_Lag2 (2 días previos)
+- Adj Close_Lag2 (2 días previos)
 
-Adj Close_Lag3 (3 días previos)
+- Adj Close_Lag3 (3 días previos)
 
 Esto convierte el problema en un dataset adecuado para modelos supervisados clásicos y redes neuronales.
 
@@ -106,11 +106,11 @@ Esto convierte el problema en un dataset adecuado para modelos supervisados clá
 
 Se implementó un Pipeline que incluye:
 
-Estandarización de variables (StandardScaler)
+    - Estandarización de variables (StandardScaler)
 
-Ensamblaje final de features
+    - Ensamblaje final de features
 
-Aplicación solo al conjunto de entrenamiento para evitar fugas de información
+    - Aplicación solo al conjunto de entrenamiento para evitar fugas de información (data leakage)
 
 
 🔹 Escalado de la variable objetivo (solo para redes neuronales)
@@ -137,13 +137,13 @@ Después de generar los lags, el DataFrame cambió su tamaño, por lo que se vol
 
 Todos fueron evaluados con:
 
-RMSE
+- RMSE
 
-MAE
+- MAE
 
-MSE
+- MSE
 
-R² Score
+- R² Score
 
 🔹 Modelos Lineales
 
