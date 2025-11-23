@@ -184,6 +184,121 @@ Se utilizó GridSearchCV por las siguientes razones:
 
     - Cada modelo de Machine Learning (como Regresión Ridge, Random Forest, SVR, MLP, etc.) tiene hiperparámetros que deben configurarse antes de entrenar. La elección correcta de estos valores es crucial para que el modelo alcance su máximo rendimiento predictivo y para evitar el sobreajuste o subajuste.
 
+2. **Búsqueda Exhaustiva y Sistemática**
+
+    - Grid Search explora de manera exhaustiva todas las combinaciones posibles de un conjunto predefinido de valores de hiperparámetros. Esto asegura que se evalúen diversas configuraciones y se encuentre la que produce el mejor desempeño (según una métrica específica como el Error Cuadrático Medio o R-squared).
+
+3. **Evaluación Robusta con Validación Cruzada**
+
+    - Grid Search entrena y evalúa el modelo para cada combinación de hiperparámetros utilizando validación cruzada. Esto proporciona una estimación más robusta del rendimiento del modelo en datos no vistos, ayudando a seleccionar el modelo que mejor generaliza.
+
+---
+
+## 🏆 Resultados y Modelo Ganador
+
+El mejor modelo fue:
+
+🥇 Ridge Regression
+
+Con:
+
+    - R² = 0.99 aprox. (casi 1)
+
+    - RMSE = 0.04314 aprox. 
+
+    - MAE = 0.02887 aprox. 
+
+→ Fue seleccionado para despliegue final.
+
+---
+
+## 🚀 Implementación con Streamlit
+
+Se desarrolló una aplicación interactiva usando la libreria de Python "Streamlit" en:
+
+📄 AmazonStockPricePredictor.py  ✔ 
+
+La app:
+
+    - Carga best_ridge_model.pkl
+
+    - Carga preprocess_pipeline.pkl
+
+    - Carga y_scaler.pkl
+
+    - Permite ingresar valores actuales + lags
+
+    - Predice el Adj Close del siguiente día
+
+🖼 Pantalla principal de Streamlit
+
+Incluye:
+
+    - Entradas para Open/High/Low/Close/Volume
+
+    - Entradas para lags
+
+    - Botón Predecir
+
+    - Resultado con formato y animación (st.balloons())
+
+▶ Para ejecutar localmente:
+
+streamlit run AmazonStockPricePredictor.py
+
+Asegúrate de tener:
+
+saved_models/
+    best_ridge_model.pkl
+    preprocess_pipeline.pkl
+    y_scaler.pkl
+
+
+---
+
+## 🧠 Conclusiones
+
+- El dataset de Amazon permite capturar de forma clara tendencias financieras.
+
+- Los modelos basados en regresión penalizada (Ridge) superaron a modelos más complejos.
+
+- Incluir lags fue crucial para mejorar la precisión.
+
+- La combinación Pipeline + RandomizedSearchCV + Streamlit permitió crear un proyecto completo y profesional.
+
+- El predictor funciona de manera estable y puede expandirse con:
+
+    - Modelos secuenciales avanzados (GRU, LSTM mejor diseñadas)
+
+    - Feature engineering más agresivo
+
+    - Validación temporal TimeSeriesSplit
+
+    - Actualización automática con nuevas cotizaciones
+
+---
+
+## 🏁 Tecnologías Utilizadas
+
+- Python
+
+- Pandas / NumPy
+
+- Matplotlib / Seaborn
+
+- Scikit-Learn
+
+- TensorFlow/Keras
+
+- Streamlit
+
+- Joblib
+
+---
+
+
+
+
 
 
 
