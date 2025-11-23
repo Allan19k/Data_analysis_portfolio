@@ -1,4 +1,4 @@
-# 📈 Proyecto Final: Amazon Stock Price Predictor — End-to-End Data Science Project 
+# End-to-End Data Science Project : Amazon Stock Price Predictor 🛒🛍️ 
 
 Este proyecto desarrolla un sistema completo de Machine Learning para predecir el precio de cierre ajustado (Adj Close) de las acciones de Amazon, utilizando información histórica del mercado y técnicas modernas de ciencia de datos.
 Incluye EDA, comparación de modelos, tuneo de hiperparámetros y despliegue local con Streamlit.
@@ -29,9 +29,9 @@ Este predictor puede apoyar decisiones financieras, análisis de tendencias y ev
 
 - saved_models/ — Contiene:
 
-    -  best_ridge_model.pkl
-    -  preprocess_pipeline.pkl
-    -  y_scaler.pkl
+    -  best_ridge_model.pkl (el modelo)
+    -  preprocess_pipeline.pkl (el pipeline de preprocesamiento)
+    -  y_scaler.pkl (el escalador y para la transformación inversa en Streamlit)
 
 ---
 
@@ -249,9 +249,9 @@ streamlit run AmazonStockPricePredictor.py
 Asegúrate de tener:
 
 saved_models/
-    best_ridge_model.pkl
-    preprocess_pipeline.pkl
-    y_scaler.pkl
+    - best_ridge_model.pkl
+    - preprocess_pipeline.pkl
+    - y_scaler.pkl
 
 
 ---
@@ -278,21 +278,20 @@ saved_models/
 
 ---
 
-## 🏁 Tecnologías Utilizadas
+## 🏁 Liberias utilizadas
 
-- Python
 
-- Pandas / NumPy
+        - Pandas / NumPy
 
-- Matplotlib / Seaborn
+        - Matplotlib / Seaborn
 
-- Scikit-Learn
+        - Scikit-Learn
 
-- TensorFlow/Keras
+        - TensorFlow/Keras
 
-- Streamlit
+        - Streamlit
 
-- Joblib
+        - Joblib
 
 ---
 
