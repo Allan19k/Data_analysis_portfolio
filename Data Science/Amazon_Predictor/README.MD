@@ -1,4 +1,4 @@
-# End-to-End Data Science Project : Amazon Stock Price Predictor 🛒🛍️ 
+# Amazon Stock Price Predictor 🛒🛍️ 
 
 Este proyecto desarrolla un sistema completo de Machine Learning para predecir el precio de cierre ajustado (Adj Close) de las acciones de Amazon, utilizando información histórica del mercado y técnicas modernas de ciencia de datos.
 Incluye EDA, comparación de modelos, tuneo de hiperparámetros y despliegue local con Streamlit.
@@ -278,7 +278,7 @@ saved_models/
 
 ---
 
-## 🏁 Liberias utilizadas
+## 🏁 Librerias utilizadas
 
 
         - Pandas / NumPy
