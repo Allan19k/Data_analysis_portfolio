@@ -137,13 +137,13 @@ Después de generar los lags, el DataFrame cambió su tamaño, por lo que se vol
 
 Todos fueron evaluados con:
 
-- RMSE
+    - RMSE
 
-- MAE
+    - MAE
 
-- MSE
+    - MSE
 
-- R² Score
+    - R² Score
 
 🔹 Modelos Lineales
 
@@ -157,31 +157,32 @@ SVR (linear kernel)
 
 🔹 Árboles & Ensambles
 
-Decision Tree Regressor
+    - Random Forest Regressor
 
-Random Forest Regressor
+    - Gradient Boosting Regressor
 
-Gradient Boosting Regressor
+    - AdaBoost Regressor
 
-AdaBoost Regressor
+    - XGBoost Regressor
 
-XGBoost Regressor
-
-Voting Regressor
+    - Voting Regressor
 
 🔹 Redes Neuronales
 
-MLP Regressor
+    - MLP (MultiLayer Perceptron)
 
-DNN personalizada
+    - DNN (Deep Neural Network)
 
-LSTM (modelo secuencial)
+    - LSTM secuencial (Long Short Term Memory)
 
 ---
 
 ## 🧪 Búsqueda de Hiperparámetros
 
-Se utilizó GridSearchCV para explorar espacios 
+Se utilizó GridSearchCV por las siguientes razones:
+1. **Optimización del Rendimiento**
+
+    - Cada modelo de Machine Learning (como Regresión Ridge, Random Forest, SVR, MLP, etc.) tiene hiperparámetros que deben configurarse antes de entrenar. La elección correcta de estos valores es crucial para que el modelo alcance su máximo rendimiento predictivo y para evitar el sobreajuste o subajuste.
 
 
 
