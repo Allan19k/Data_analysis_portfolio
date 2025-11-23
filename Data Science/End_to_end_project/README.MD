@@ -1,6 +1,5 @@
 # 🌁 End-to-End: California Housing Price Prediction
 
-**Resumen**  
 Proyecto end-to-end para predecir el valor medio de viviendas en California usando el dataset del repositorio *hands-on-ml2* (Andreas Geron). 
 Se entrenaron tres modelos (Regresión Lineal, Decision Tree y Random Forest), se regularizaron con **RandomizedSearchCV**, se compararon por RMSE y se exportó el mejor modelo junto con el pipeline completo para servirlo localmente mediante **Streamlit**.
 
