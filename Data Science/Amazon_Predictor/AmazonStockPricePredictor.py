@@ -33,7 +33,7 @@ st.write("Ingresa los datos del día actual y de los días anteriores para prede
 
 # Ruta al directorio donde se encuentran los modelos
 # Para Streamlit local, la ruta debe ser relativa al script o una ruta absoluta local.
-model_dir =  'C:/AmazonPredictor/saved_models'  # En un entorno local, esto debería ser relativo o absoluto
+model_dir =  'C:/Amazon_Predictor/saved_models'  # En un entorno local, esto debería ser relativo o absoluto
 
 # --- Cargar los componentes guardados ---
 try:
@@ -96,3 +96,4 @@ if st.button("Predecir Precio del Siguiente Día"):
         st.warning("Por favor, rellena todos los campos para realizar la predicción.")
 
 st.write("Para ejecutar esta aplicación localmente, guarda este código como `app.py` y asegúrate de tener la carpeta `saved_models` en el mismo directorio. Luego, ejecuta `streamlit run app.py` en tu terminal.")
+
