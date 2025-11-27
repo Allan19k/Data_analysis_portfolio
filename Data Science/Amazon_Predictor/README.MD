@@ -244,7 +244,9 @@ Incluye:
 
 ▶ Para ejecutar localmente:
 
-'streamlit run AmazonStockPricePredictor.py'
+streamlit run AmazonStockPricePredictor.py'
+
+> [!NOTE]
 
 Asegúrate de tener:
 
