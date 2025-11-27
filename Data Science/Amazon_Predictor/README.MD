@@ -244,11 +244,12 @@ Incluye:
 
 ▶ Para ejecutar localmente:
 
-streamlit run AmazonStockPricePredictor.py
+"streamlit run AmazonStockPricePredictor.py"
 
 Asegúrate de tener:
 
 saved_models/
+    
     - best_ridge_model.pkl
     - preprocess_pipeline.pkl
     - y_scaler.pkl
