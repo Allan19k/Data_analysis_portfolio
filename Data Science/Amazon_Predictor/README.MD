@@ -242,21 +242,9 @@ Incluye:
 
     - Resultado con formato y animación (st.balloons())
 
-▶ Para ejecutar localmente:
-
-streamlit run AmazonStockPricePredictor.py'
-
 > [!NOTE]
-> Para ejecutar localmente en CMD usa el siguiente comando: streamlit run (ruta del archivo) + AmazonStockPricePredictor.py
-
-Asegúrate de tener:
-
-    saved_models/
-    
-    - best_ridge_model.pkl
-    - preprocess_pipeline.pkl
-    - y_scaler.pkl
-
+> Para ejecutar localmente en CMD usa el siguiente comando: streamlit run (ruta del archivo AmazonStockPricePredictor.py)
+> Asegúrate de tener en la carpeta de saved_models: best_ridge_model.pkl, preprocess_pipeline.pkl y el  y_scaler.pkl
 
 ---
 
@@ -264,7 +252,7 @@ Asegúrate de tener:
 
 - El dataset de Amazon permite capturar de forma clara tendencias financieras.
 
-- Los modelos basados en regresión penalizada (Ridge) superaron a modelos más complejos.
+- Los modelos basados en regresión lineal (Ridge) superaron a modelos más complejos.
 
 - Incluir lags fue crucial para mejorar la precisión.
 
