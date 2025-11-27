@@ -246,7 +246,7 @@ Incluye:
 
 streamlit run AmazonStockPricePredictor.py'
 
-> [!NOTA]
+> [!NOTE]
 > Para ejecutar localmente en CMD usa el siguiente comando: streamlit run (ruta del archivo) + AmazonStockPricePredictor.py
 
 Asegúrate de tener:
