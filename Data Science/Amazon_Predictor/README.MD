@@ -243,7 +243,8 @@ Incluye:
     - Resultado con formato y animación (st.balloons())
 
 > [!NOTE]
-> Para ejecutar localmente en CMD usa el siguiente comando: streamlit run (ruta del archivo AmazonStockPricePredictor.py)
+> Para ejecutarlo localmente, en CMD usa el siguiente comando: streamlit run (ruta del archivo AmazonStockPricePredictor.py)
+
 > Asegúrate de tener en la carpeta de saved_models: best_ridge_model.pkl, preprocess_pipeline.pkl y el  y_scaler.pkl
 
 ---
