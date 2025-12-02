@@ -23,15 +23,19 @@ Este predictor puede apoyar decisiones financieras, análisis de tendencias y ev
 
 ## 📂 Contenido del Proyecto
 
-- Amazon_Stock_Price_Predictor.ipynb — Notebook completo del proyecto (EDA → Modelos → Resultados).
+El repositorio está organizado de la siguiente manera:
 
-- AmazonStockPricePredictor.py — Aplicación local en Streamlit. 
+| Archivo / Carpeta | Descripción |
+|-------------------|-------------|
+| **Amazon_Stock_Price_Predictor.ipynb** | Notebook completo del proyecto: EDA, creación de lags, entrenamiento, comparación de modelos y resultados. |
+| **AmazonStockPricePredictor.py** | Aplicación en Streamlit lista para ejecución local. |
+| **saved_models/** | Contiene el archivo del pipeline final. |
 
-- saved_models/ — Contiene:
+### Contenido de `saved_models/`:
 
-    -  best_ridge_model.pkl (el modelo)
-    -  preprocess_pipeline.pkl (el pipeline de preprocesamiento)
-    -  y_scaler.pkl (el escalador y para la transformación inversa en Streamlit)
+- `final_prediction_pipeline.pkl`  
+  ✔ Contiene **todo** el flujo de preprocesamiento + modelo Ridge final + escalado + inversión de escala.  
+  ✔ Es el **único archivo** necesario para realizar predicciones
 
 ---
 
@@ -218,35 +222,63 @@ Se desarrolló una aplicación interactiva usando la libreria de Python "Streaml
 
 📄 AmazonStockPricePredictor.py  ✔ 
 
-La app:
+### La app realiza las siguientes funciones:
 
-    - Carga best_ridge_model.pkl
+- Carga **final_prediction_pipeline.pkl**  
+- Recibe datos ingresados por el usuario:
+  - Open  
+  - High  
+  - Low  
+  - Close  
+  - Volume  
+  - Adj Close (1, 2 y 3 días atrás — lags)
+- Pasa estos datos directamente al pipeline sin necesidad de escalar.
+- Genera la predicción real del **Adj Close del día siguiente**.
+- Muestra el resultado formateado e incluye animación con `st.balloons()`.
 
-    - Carga preprocess_pipeline.pkl
+---
 
-    - Carga y_scaler.pkl
-
-    - Permite ingresar valores actuales + lags
-
-    - Predice el Adj Close del siguiente día
-
-🖼 Pantalla principal de Streamlit
+# 🖼 Interfaz de la Aplicación
 
 Incluye:
 
-    - Entradas para Open/High/Low/Close/Volume
-
-    - Entradas para lags
-
-    - Botón Predecir
-
-    - Resultado con formato y animación (st.balloons())
-
-> [!NOTE]
-> Para ejecutarlo localmente, en CMD usa el siguiente comando: streamlit run (ruta del archivo AmazonStockPricePredictor.py)
-> Además asegúrate de tener en la carpeta de saved_models: best_ridge_model.pkl, preprocess_pipeline.pkl y el  y_scaler.pkl
+- Campos organizados con `st.subheader` y `st.columns`.
+- Tres columnas para ingresar los lags.
+- Botón de predicción.
+- Resultado en formato monetario.
+- Mensajes de error elegantes en caso de valores faltantes o errores.
 
 ---
+
+# ▶️ ¿Cómo ejecutar la aplicación?
+
+### 1️⃣ Instalar dependencias
+
+```bash
+pip install streamlit pandas numpy scikit-learn
+
+### 2️⃣ Ejecutar la aplicación
+
+```bash
+streamlit run AmazonStockPricePredictor.py
+
+### 3️⃣ Verificar archivos requeridos
+
+La carpeta saved_models/ debe contener:
+
+```bash
+final_prediction_pipeline.pkl
+
+
+---
+
+## 📌 Recomendaciones de Uso
+
+    - Introducir datos recientes y consistentes del mercado.
+
+    - Mantener la carpeta saved_models en la misma ubicación del archivo .py.
+
+    - Consultar el notebook para comprender el proceso completo del modelado.
 
 ## 🧠 Conclusiones
 
@@ -284,6 +316,12 @@ Incluye:
         - Streamlit
 
         - Joblib
+
+---
+
+## 📄 Licencia
+
+Proyecto desarrollado únicamente con fines educativos y de demostración.
 
 ---
 
