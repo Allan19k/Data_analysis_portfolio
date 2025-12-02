@@ -256,6 +256,7 @@ Incluye:
 
 ```bash
 pip install streamlit pandas numpy scikit-learn
+```
 
 ### 2️⃣ Ejecutar la aplicación
 
