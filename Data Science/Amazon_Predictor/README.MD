@@ -48,17 +48,17 @@ https://www.kaggle.com/datasets/kannan1314/amazon-stock-price-all-time
 
 Incluye datos desde 1997 hasta octubre de 2021:
 
-- Open
+  - Open
 
-- High
+  - High
 
-- Low
+  - Low
 
-- Close
+  - Close
 
-- Adj Close
+  - Adj Close
 
-- Volume
+  - Volume
 
 --- 
 
@@ -327,15 +327,4 @@ final_prediction_pipeline.pkl
 Proyecto desarrollado únicamente con fines educativos y de demostración.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
 
