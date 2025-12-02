@@ -262,6 +262,7 @@ pip install streamlit pandas numpy scikit-learn
 
 ```bash
 streamlit run AmazonStockPricePredictor.py
+```
 
 ### 3️⃣ Verificar archivos requeridos
 
@@ -269,6 +270,7 @@ La carpeta saved_models/ debe contener:
 
 ```bash
 final_prediction_pipeline.pkl
+```
 
 
 ---
