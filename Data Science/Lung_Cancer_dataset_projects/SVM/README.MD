@@ -52,5 +52,86 @@ En esta etapa NO se aplicaron transformaciones; solo análisis descriptivo.
 
 ---
 
+## ✂ Partición Train/Test
+
+Se dividió el dataset en:
+
+* 80% Entrenamiento
+
+* 20% Prueba
+
+
+Se evaluó si se requería una partición estratificada, revisando:
+
+  - Distribución de la variable objetivo (clases)
+
+  - Existencia de desbalance
+
+Para problemas de clasificación es casi obligatoria realizar la partición estratificada, por lo tanto, si se realizo la partición estratificada
+
+---
+
+## 🛠 Preprocesamiento con Pipeline
+
+Una vez analizadas las deficiencias del dataset, se creó un Pipeline que manejó:
+
+✔ Imputación de valores nulos
+
+Para columnas numéricas y categóricas.
+
+✔ Codificación de variables no numéricas
+
+En caso de existir.
+
+✔ Normalización / Escalado
+
+Uso de StandardScaler, crucial para modelos basados en gradiente.
+
+✔ Integración completa
+
+El Pipeline se entrenó solo con Train para evitar data leakage.
+
+---
+
+## ⚙ 6. Implementación de Modelos SVM
+
+Se desarrollaron y evaluaron 3 modelos de SVM con kernels (Lineal, RBF y Poly):
+
+📘 Evaluación
+
+Se evaluaron:
+
+    - Modelos sin ajustar
+
+    - Modelos ajustados
+
+
+✨ Métricas utilizadas:
+
+        - Accuracy
+
+        - Recall
+
+        - Precision
+
+        - F1-score
+
+🔹 Modelo 1 – SVM Lineal
+
+🔧 Hiperparámetros ajustados mediante GridSearch: C
+
+
+🔹 Modelo 2 – SVM RBF
+
+Ideal para datos no lineales.
+
+🔧 Hiperparámetros ajustados:
+
+- C
+
+- gamma
+
+
+
 
 
