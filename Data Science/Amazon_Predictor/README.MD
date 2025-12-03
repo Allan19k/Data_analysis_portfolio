@@ -43,8 +43,7 @@ El repositorio está organizado de la siguiente manera:
 
 El dataset proviene de Kaggle:
 
-📎 Amazon Stock Price All-Time
-https://www.kaggle.com/datasets/kannan1314/amazon-stock-price-all-time
+📎 [Amazon Stock Price All-Time](https://www.kaggle.com/datasets/kannan1314/amazon-stock-price-all-time)
 
 Incluye datos desde 1997 hasta octubre de 2021:
 
