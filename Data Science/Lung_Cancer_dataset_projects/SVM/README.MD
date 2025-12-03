@@ -95,7 +95,7 @@ El Pipeline se entrenó solo con Train para evitar data leakage.
 
 ## ⚙ 6. Implementación de Modelos SVM
 
-Se desarrollaron y evaluaron 3 modelos de SVM con kernels (Lineal, RBF y Poly):
+Se desarrollaron y evaluaron 3 modelos de SVM con kernels (Lineal, RBF y Polinomial):
 
 📘 Evaluación
 
@@ -108,17 +108,19 @@ Se evaluaron:
 
 ✨ Métricas utilizadas:
 
-        - Accuracy
+    - Accuracy
 
-        - Recall
+    - Recall
 
-        - Precision
+    - Precision
 
-        - F1-score
+    - F1-score
 
 🔹 Modelo 1 – SVM Lineal
 
-🔧 Hiperparámetros ajustados mediante GridSearch: C
+🔧 Hiperparámetros ajustados mediante GridSearch: 
+
+- C
 
 
 🔹 Modelo 2 – SVM RBF
@@ -130,6 +132,33 @@ Ideal para datos no lineales.
 - C
 
 - gamma
+
+🔹 Modelo 3 – SVM Polinomial 
+
+También apto para relaciones no lineales.
+
+🔧 Hiperparámetros ajustados:
+
+- C
+
+- gamma
+
+- degree
+
+- coef0
+
+---
+
+## 📊 Resultados obtenidos
+
+
+
+
+
+
+
+
+
 
 
 
