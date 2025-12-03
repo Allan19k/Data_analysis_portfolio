@@ -153,12 +153,59 @@ También apto para relaciones no lineales.
 
 | Modelo SVM | Accuracy | Recall | Precision | F1-score |
 |-------------------|-------------|----------|-----------|----------|
-| **Modelo SVM Lineal sin ajustar** | 0.9032 | 0.9444 | 0.9444 | 0.9444 |
-| **Modelo SVM Lineal con ajuste** | 0.9032 | 0.9444 | 0.9444 | 0.9444 |
-| **Modelo SVM RBF sin ajustar** | 0.8710 | 0.9630 | 0.8966 | 0.9286 |
-| **Modelo SVM RBF con ajuste** | 0.8710 | 0.9444 | 0.9107 | 0.9273 |
-| **Modelo SVM Polinomial sin ajustar** | 0.9032 | 0.9259 | 0.9615 | 0.9434 |
-| **Modelo SVM Polinomial con ajuste** | 0.8710 | 0.9444 | 0.9107 | 0.9273 |
+| **Lineal sin ajustar** | 0.9032 | 0.9444 | 0.9444 | 0.9444 |
+| **Lineal con ajuste** | 0.9032 | 0.9444 | 0.9444 | 0.9444 |
+| **RBF sin ajustar** | 0.8710 | 0.9630 | 0.8966 | 0.9286 |
+| **RBF con ajuste** | 0.8710 | 0.9444 | 0.9107 | 0.9273 |
+| **Polinomial sin ajustar** | 0.9032 | 0.9259 | 0.9615 | 0.9434 |
+| **Polinomial con ajuste** | 0.8710 | 0.9444 | 0.9107 | 0.9273 |
+
+---
+
+## 🏆 Mejor modelo
+
+El mejor modelo fue:
+
+⭐ SVM Lineal Ajustado (C = 1)
+
+Mantuvo el mejor Accuracy (0.9032) y métricas balanceadas entre Recall, Precision y F1-score.
+
+Razones:
+
+1. El dataset presenta relaciones lineales entre variables
+
+2. Es menos sensible al ruido
+
+3. Menor riesgo de sobreajuste que RBF o Polinomial
+
+---
+
+## 🧪 Matriz de Confusión
+
+Se generó la matriz para cada modelo, permitiendo identificar:
+
+- Casos correctamente clasificados
+
+- Falsos positivos
+
+- Falsos negativos (críticos en salud)
+
+---
+
+## 📚 Comparación de los resultados con otros modelos SVM encontrados en Kaggle 
+
+Se compararon los resultados con 3 implementaciones previas en Kaggle de esa misma base de datos:
+
+| Título/Autor | Hallazgos |
+|-------------------|-------------|
+| *Lung cancer and apply it on GUI* Kamal Elfar | Interfaz gráfica (GUI), uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
+| *AmazonStockPricePredictor.py* | Aplicación en Streamlit lista para ejecución local. |
+| *saved_models/* | Contiene el archivo del pipeline final. |
+
+
+
+
+
 
 
 
