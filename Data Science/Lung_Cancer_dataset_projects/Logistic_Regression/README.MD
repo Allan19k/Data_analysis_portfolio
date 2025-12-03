@@ -25,7 +25,7 @@ Se sigue el flujo completo de un proyecto de Machine Learning supervisado, integ
 
 - Evaluación final del modelo
 
-Este repositorio forma parte de la carpeta de proyectos Lung_Cancer_Dataset_Projects, donde se comparan diversos modelos.
+Este repositorio forma parte de la carpeta de proyectos Lung_Cancer_dataset_projects, donde se comparan diversos modelos.
 
 ---
 
@@ -155,13 +155,13 @@ El mejor modelo fue seleccionado automáticamente.
 
 Se evaluó el modelo ajustado utilizando el conjunto de Test, obteniendo:
 
-✔ Accuracy
+✔ Accuracy (Precisión general) de 0.9355
 
-✔ Precision
+✔ Precision (Precisión de la clase positiva - Cáncer YES) de 0.9808
 
-✔ Recall
+✔ Recall (Sensibilidad de la clase positiva - Cáncer YES) de 0.9444 
 
-✔ F1-score
+✔ F1-score (Medida balanceada) de 0.9623
 
 ✔ Matriz de confusión
 
@@ -187,9 +187,11 @@ O fallar en detectar casos reales
 
 ## 🧠 Conclusiones 
 
-En esta práctica, la Regresión Logística mediante SGDClassifier demostró ser un modelo eficiente para la tarea de clasificación binaria del dataset de cáncer de pulmón. La aplicación de un Pipeline permitió un preprocesamiento limpio y reproducible, y el ajuste de hiperparámetros mejoró significativamente las métricas respecto al modelo base.
+El modelo de Regresión Logística optimizado demostró ser estable, preciso y adecuado para esta tarea de clasificación. La mejora significativa tras el ajuste de hiperparámetros evidencia la importancia del proceso de tuning al trabajar con métodos basados en gradiente estocástico.
 
-El análisis mostró que el modelo ajustado mejora en términos de precisión y recall, reduciendo errores críticos en la clasificación médica. Sin embargo, se pueden explorar modelos adicionales como SVM, Random Forest y ensamblados para comparar rendimiento.
+Los resultados también resaltan que, aunque el dataset es relativamente pequeño, la combinación correcta de preprocesamiento, regularización y selección de hiperparámetros permitió obtener un modelo robusto, capaz de generalizar bien a nuevos datos.
+
+Finalmente, este ejercicio reafirma el valor de seguir un pipeline completo de Data Science y sienta las bases para posibles mejoras futuras, como el uso de modelos más complejos (SVM, Random Forest, XGBoost), balanceo de clases o calibración de probabilidades en contextos clínicos reales.
 
 ## 🚀 Librerias utilizadas
 
