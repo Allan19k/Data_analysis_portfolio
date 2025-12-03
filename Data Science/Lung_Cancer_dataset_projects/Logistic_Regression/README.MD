@@ -211,8 +211,5 @@ Finalmente, este ejercicio reafirma el valor de seguir un pipeline completo de D
 
 Allan Hall Solorio
 
-Estudiante de Ingeniería en Ciencias de la Computación
-
-Enfoque en Análisis de Datos y Machine Learning
 
 ---
