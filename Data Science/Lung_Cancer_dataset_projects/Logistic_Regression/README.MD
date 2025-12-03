@@ -211,5 +211,4 @@ Finalmente, este ejercicio reafirma el valor de seguir un pipeline completo de D
 
 Allan Hall Solorio
 
-
 ---
