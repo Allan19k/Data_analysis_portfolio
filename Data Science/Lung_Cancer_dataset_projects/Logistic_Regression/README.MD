@@ -31,7 +31,7 @@ Este repositorio forma parte de la carpeta de proyectos Lung_Cancer_Dataset_Proj
 
 ## 📂 Dataset
 
-- Fuente: Kaggle — [Lung Cancer Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer.)
+- Fuente: Kaggle [Lung Cancer Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer.)
 
 - Tarea: Clasificación binaria
 
@@ -47,19 +47,19 @@ La exploración inicial incluyó:
 
 ✔ Identificación de valores nulos
 
-Se analizó columna por columna para detectar datos faltantes.
+  - Se analizó columna por columna para detectar datos faltantes.
 
-No se realizaron modificaciones en esta etapa, solo detección.
+  - No se realizaron modificaciones en esta etapa, solo detección.
 
 ✔ Distribución de características
 
-Se visualizaron histogramas/plots para:
+  - Se visualizaron histogramas/plots para:
 
-Distribución de cada variable clínica
+  - Distribución de cada variable clínica
 
-Observación de posibles outliers
+ - Observación de posibles outliers
 
-Detección de desbalanceo en la variable objetivo
+ - Detección de desbalanceo en la variable objetivo
 
 ✔ Correlación
 
