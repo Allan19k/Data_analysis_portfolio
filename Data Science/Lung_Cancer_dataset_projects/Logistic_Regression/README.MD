@@ -31,7 +31,7 @@ Este repositorio forma parte de la carpeta de proyectos Lung_Cancer_Dataset_Proj
 
 ## 📂 Dataset
 
-- Fuente: Kaggle — [Lung Cancer Dataset] (https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer.)
+- Fuente: Kaggle — [Lung Cancer Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer.)
 
 - Tarea: Clasificación binaria
 
