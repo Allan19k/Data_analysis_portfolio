@@ -152,7 +152,7 @@ También apto para relaciones no lineales.
 ## 📊 Resultados obtenidos
 
 | Modelo SVM | Accuracy | Recall | Precision | F1-score |
-|-------------------|-------------|
+|-------------------|-------------|----------|-----------|----------|
 | **Modelo SVM Lineal sin ajustar** | 0.9032 | 0.9444 | 0.9444 | 0.9444 |
 | **Modelo SVM Lineal con ajuste** | 0.9032 | 0.9444 | 0.9444 | 0.9444 |
 | **Modelo SVM RBF sin ajustar** | 0.8710 | 0.9630 | 0.8966 | 0.9286 |
