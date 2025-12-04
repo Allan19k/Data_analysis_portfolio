@@ -199,7 +199,7 @@ Se compararon los resultados con 3 implementaciones previas en Kaggle de esa mis
 | Título/Autor | Hallazgos |
 |-------------------|-------------|
 | *Lung cancer and apply it on GUI* (Kamal Elfar) | <ul><li>Interfaz gráfica de usuario (GUI)</li><li>Uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
-| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li>El preprocesamiento de los datos: <ul><li>Convirtio las columnas a minusculas</li><li>Agrego guiones bajos para los nombres de las columnas con multiples palabras (columna_ejemplo)</li><li>Eliminó los datos duplicados</li><li>En la columna lung_cancer cambio el "yes" y el "no" por 1 y 0 para mantener consistencia</li><li>Categorizo las edades de las personas utilizando pd.cut para crear grupos (df['age_cat'] = pd.cut(df['age'],bins=[0,13,18,45,60,130],labels=['Children','Teens','Adults','Mid Adults','Elderly']))</li><li>Implementó SMOTE (Synthetic Minority Over-sampling Technique) para abordar el desbalance de clases en el conjunto de datos</ul><li>Obtuvo diversos gráficos y estadísticas, incluyendo pruebas de Chi-cuadrada |
+| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li>El preprocesamiento de los datos: <ul><li>Convirtio las columnas a minusculas</li><li>Agrego guiones bajos para los nombres de las columnas con multiples palabras (columna_ejemplo)</li><li>Eliminó los datos duplicados</li><li>En la columna lung_cancer cambio el "yes" y el "no" por 1 y 0 para mantener consistencia</li><li>Categorizo las edades de las personas utilizando *pd.cut* para crear grupos 'Children','Teens','Adults','Mid Adults','Elderly'</li><li>Implementó SMOTE (Synthetic Minority Over-sampling Technique) para abordar el desbalance de clases en el conjunto de datos</ul><li>Obtuvo diversos gráficos y estadísticas, incluyendo pruebas de Chi-cuadrada |
 | *Lung Cancer Prediction ML Acc 96%* (Ebrahim Merza) | <ul><li>Implementó un Support Vector Classifier (SVC) utilizando la misma base de datos |
 
 ## 🧠 Conclusiones
@@ -234,7 +234,7 @@ El proyecto también evidenció la importancia de:
 ---
 
 
-🧾 Autor
+## 🧾 Autor
 
 Allan Hall Solorio
 
