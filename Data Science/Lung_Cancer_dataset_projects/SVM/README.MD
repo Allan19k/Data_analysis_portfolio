@@ -199,7 +199,7 @@ Se compararon los resultados con 3 implementaciones previas en Kaggle de esa mis
 | Título/Autor | Hallazgos |
 |-------------------|-------------|
 | *Lung cancer and apply it on GUI* (Kamal Elfar) | <ul><li>Interfaz gráfica de usuario (GUI)</li><li>Uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
-| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li>El preprocesamiento de los datos: <li><li> Convertir las columnas a minusculas<li><li>Agregar guiones bajos para los nombres de las columnas con multiples palabras (columna_1) |
+| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li>El preprocesamiento de los datos: <li>Convertir las columnas a minusculas</li><li>Agregar guiones bajos para los nombres de las columnas con multiples palabras (columna_1) |
 | *saved_models/* | Contiene el archivo del pipeline final. |
 
 
