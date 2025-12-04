@@ -199,7 +199,7 @@ Se compararon los resultados con 3 implementaciones previas en Kaggle de esa mis
 | Título/Autor | Hallazgos |
 |-------------------|-------------|
 | *Lung cancer and apply it on GUI* (Kamal Elfar) | <ul><li>Interfaz gráfica de usuario (GUI)</li><li>Uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
-| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li>El preprocesamiento de los datos: <ul><li>Convertio las columnas a minusculas</li><li>Agrego guiones bajos para los nombres de las columnas con multiples palabras (columna_ejemplo)</li><li>Removio los duplicados</li><li>En la columna lung_cancer cambio el "yes" y el "no" por 1 y 0 para mantener consistencia |
+| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li>El preprocesamiento de los datos: <ul><li>Convirtio las columnas a minusculas</li><li>Agrego guiones bajos para los nombres de las columnas con multiples palabras (columna_ejemplo)</li><li>Eliminó los datos duplicados</li><li>En la columna lung_cancer cambio el "yes" y el "no" por 1 y 0 para mantener consistencia</li><li>Categorizo las edades de las personas utilizando pd.cut para crear grupos (df['age_cat'] = pd.cut(df['age'],bins=[0,13,18,45,60,130],labels=['Children','Teens','Adults','Mid Adults','Elderly']))</li><li>Implementó SMOTE (Synthetic Minority Over-sampling Technique) para abordar el desbalance de clases en el conjunto de datos |
 | *saved_models/* | Contiene el archivo del pipeline final. |
 
 
