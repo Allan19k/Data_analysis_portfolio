@@ -93,7 +93,7 @@ El Pipeline se entrenó solo con Train para evitar data leakage.
 
 ---
 
-## ⚙ 6. Implementación de Modelos SVM
+## ⚙ Implementación de Modelos SVM
 
 Se desarrollaron y evaluaron 3 modelos de SVM con kernels (Lineal, RBF y Polinomial):
 
@@ -198,7 +198,7 @@ Se compararon los resultados con 3 implementaciones previas en Kaggle de esa mis
 
 | Título/Autor | Hallazgos |
 |-------------------|-------------|
-| *Lung cancer and apply it on GUI* (Kamal Elfar) | - Interfaz gráfica (GUI) - Uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
+| *Lung cancer and apply it on GUI* (Kamal Elfar) | <ul><li>Interfaz gráfica (GUI)<ul><li>Uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
 | *AmazonStockPricePredictor.py* | Aplicación en Streamlit lista para ejecución local. |
 | *saved_models/* | Contiene el archivo del pipeline final. |
 
