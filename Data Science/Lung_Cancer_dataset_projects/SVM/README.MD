@@ -198,8 +198,8 @@ Se compararon los resultados con 3 implementaciones previas en Kaggle de esa mis
 
 | Título/Autor | Hallazgos |
 |-------------------|-------------|
-| *Lung cancer and apply it on GUI* (Kamal Elfar) | <ul><li>Interfaz gráfica (GUI) <ul><li>Uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
-| *AmazonStockPricePredictor.py* | Aplicación en Streamlit lista para ejecución local. |
+| *Lung cancer and apply it on GUI* (Kamal Elfar) | <ul><li>Interfaz gráfica de usuario (GUI) <li><li>Uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
+| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li> El preprocesamiento de los datos <ul><li> Convertir las columnas a minusculas |
 | *saved_models/* | Contiene el archivo del pipeline final. |
 
 
