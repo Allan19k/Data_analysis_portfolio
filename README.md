@@ -1,11 +1,10 @@
 # 📊 Data Analysis Portfolio
 
-Este repositorio —en constante desarrollo— reúne mis proyectos, ejercicios y certificaciones en el área de **análisis de datos**, con el objetivo de **postularme a una vacante para prácticas profesionales**, como parte de mi formación académica en la carrera de **Ingeniería en Ciencias de la Computación**.
+Este repositorio —en constante desarrollo— reúne mis proyectos, ejercicios, prácticas profesionales y certificaciones en el área de análisis de datos. Actualmente curso el noveno semestre de la carrera de Ingeniería en Ciencias de la Computación, mientras realizo mis prácticas profesionales en Nidix Networks, lo que me permite aplicar mis conocimientos en un entorno real y complementar mi formación académica.
 
-Actualmente, el portafolio incluye secciones completas de **Python**, **Excel**, **SQL** y **Machine Learning**, que corresponden directamente con las herramientas mencionadas en la vacante. Sin embargo, mi intención no es solo cumplir con lo solicitado, sino demostrar que soy una persona comprometida con el aprendizaje continuo y con la mejora constante de mis habilidades.
+El portafolio integra proyectos en **Python** que he desarrollado a lo largo de la carrera para distintas materias optativas como: *Machine Learning* y *Data Science*. Así como, otras herramientas propias del análisis de datos como **Excel**, **SQL**, **PowerBi**, **Minitab**, entre otras. Esto, además de mostrar mis habilidades técnicas, también refleja mi compromiso con el aprendizaje continuo, la mejora constante y la adopción de buenas prácticas de ingeniería, como documentación, control de versiones y uso de pipelines.
 
-Este repositorio crecerá progresivamente, incorporando nuevas tecnologías, herramientas y metodologías que son relevantes en el campo del análisis de datos. Considero fundamental mantenerse actualizado en un entorno tecnológico en constante evolución, donde las soluciones actuales pueden quedar rápidamente desfasadas. Por ello, además de consolidar lo aprendido, me esfuerzo por explorar e integrar enfoques emergentes que puedan ser de valor para la empresa en la que me desempeñe.
-
+Este repositorio seguirá creciendo de forma progresiva, incorporando las nuevas herramientas, metodologías y tecnologías que voy aprendiendo, especialmente ahora que estoy expuesto a procesos reales dentro de la industria. Considero fundamental mantenerse actualizado en un entorno tecnológico que evoluciona rápidamente; por ello, además de reforzar lo aprendido, busco integrar enfoques modernos que aporten valor en cualquier proyecto o empresa donde participe.
 
 ---
 
@@ -109,7 +108,5 @@ Materia optativa de 8º semestre en curso que estoy llevando con la Dra. Olanda 
 
 ---
 
-> **Propósito:** Este portafolio es mi carta de presentación para prácticas profesionales y muestra mi **compromiso** con el aprendizaje continuo en análisis de datos.  
-
-*Repositorios y secciones actualizados al 2025‑09‑08.*  
+*Repositorios y secciones actualizados al 03/12/2025.*  
 
