@@ -199,26 +199,43 @@ Se compararon los resultados con 3 implementaciones previas en Kaggle de esa mis
 | Título/Autor | Hallazgos |
 |-------------------|-------------|
 | *Lung cancer and apply it on GUI* (Kamal Elfar) | <ul><li>Interfaz gráfica de usuario (GUI)</li><li>Uso de la libreria de python "Optuna" para la optimización de hiperparámetros |
-| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li>El preprocesamiento de los datos: <ul><li>Convirtio las columnas a minusculas</li><li>Agrego guiones bajos para los nombres de las columnas con multiples palabras (columna_ejemplo)</li><li>Eliminó los datos duplicados</li><li>En la columna lung_cancer cambio el "yes" y el "no" por 1 y 0 para mantener consistencia</li><li>Categorizo las edades de las personas utilizando pd.cut para crear grupos (df['age_cat'] = pd.cut(df['age'],bins=[0,13,18,45,60,130],labels=['Children','Teens','Adults','Mid Adults','Elderly']))</li><li>Implementó SMOTE (Synthetic Minority Over-sampling Technique) para abordar el desbalance de clases en el conjunto de datos |
-| *saved_models/* | Contiene el archivo del pipeline final. |
+| *Lung Cancer Prediction - EDA + SMOTE + MODELING* (Faiz) | <ul><li>El preprocesamiento de los datos: <ul><li>Convirtio las columnas a minusculas</li><li>Agrego guiones bajos para los nombres de las columnas con multiples palabras (columna_ejemplo)</li><li>Eliminó los datos duplicados</li><li>En la columna lung_cancer cambio el "yes" y el "no" por 1 y 0 para mantener consistencia</li><li>Categorizo las edades de las personas utilizando pd.cut para crear grupos (df['age_cat'] = pd.cut(df['age'],bins=[0,13,18,45,60,130],labels=['Children','Teens','Adults','Mid Adults','Elderly']))</li><li>Implementó SMOTE (Synthetic Minority Over-sampling Technique) para abordar el desbalance de clases en el conjunto de datos</li><li>Obtuvo diversos gráficos y estadísticas, incluyendo pruebas de Chi-cuadrada |
+| *Lung Cancer Prediction|ML Acc 96%* (Ebrahim Merza) | <ul><li>Implementó un Support Vector Classifier (SVC) utilizando la misma base de datos |
+
+## 🧠 Conclusiones
+
+Esta práctica permitió:
+
+- Aplicar 3 variantes de SVM
+
+- Entender cómo los kernels afectan el rendimiento
+
+- Realizar GridSearch para hiperparámetros
+
+- Implementar un Pipeline profesional
+
+- Evaluar con métricas estándar para clasificación
+
+- Comparar con trabajos científicos reales
+
+El SVM Lineal Ajustado resultó ser el mejor modelo, lo cual demuestra que, en datasets con relaciones predominantemente lineales, los kernels no lineales (RBF o Polinomial) no siempre ofrecen mejor rendimiento.
+
+El proyecto también evidenció la importancia de:
+
+1. La calidad del preprocesamiento
+
+2. La selección correcta de hiperparámetros
+
+3. El balance entre Recall y Precision en problemas médicos
+
+4. Comparar resultados con investigaciones previas para contextualizar el rendimiento
 
 
+---
 
 
+🧾 13. Autor
 
+Allan Hall Solorio
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
