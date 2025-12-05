@@ -10,4 +10,76 @@ Los modelos implementados fueron: VotingClassifier (Hard Voting), Bagging, Pasti
 > [!NOTE]
 > 🔎 El preprocesamiento fue el mismo que en las prácticas anteriores (LR, SVM, RF), por lo que aquí únicamente se documentan los modelos de ensamble y sus resultados.
 
+## ⚙ Modelos Implementados
+
+⿡ VotingClassifier — Hard Voting
+
+Clasificadores base:
+
+* Regresión Logística
+
+* Decision Tree
+
+* Random Forest
+
+Adicionalmente, se evaluó cada clasificador por separado 
+
+⿢ BaggingClassifier
+
+* Clasificador base: Decision Tree
+
+* Parámetros:
+
+```
+n_estimators=100  
+max_samples=1.0  
+bootstrap=True  
+random_state=42  
+n_jobs=-1
+
+```
+
+Bagging entrena múltiples modelos independientes con remuestreo con reemplazo.
+
+⿣ PastingClassifier
+
+* Clasificador base: Decision Tree
+
+* Parámetros:
+
+```
+
+n_estimators=100  
+max_samples=1.0  
+bootstrap=False   # sin reemplazo  
+random_state=42  
+n_jobs=-1
+
+```
+
+Es equivalente al Bagging pero sin reemplazo, lo que modifica el nivel de variabilidad entre los modelos del ensamble.
+
+ AdaBoostClassifier
+
+* Clasificador base: Decision Tree
+
+* Parámetros:
+
+```
+estimator=DecisionTreeClassifier(max_depth=1)  
+n_estimators=50  
+learning_rate=1.0  
+random_state=42
+
+```
+
+AdaBoost ajusta clasificadores sucesivos priorizando las instancias mal clasificadas previamente.
+
+
+
+
+
+
+
+
 
