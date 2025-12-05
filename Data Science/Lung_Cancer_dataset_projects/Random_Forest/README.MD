@@ -115,7 +115,7 @@ Al implementar los 3 modelos se obtuvieron los siguientes resultados:
 
 | Modelo RF | Accuracy | Recall | Precision | F1-score |
 |-------------------|-------------|----------|-----------|----------|
-| **RF sin escalado y sin ajustar ** | 0.9032 | 0.9615 | 0.9259 | 0.9434 |
+| **RF sin escalado y sin ajustar** | 0.9032 | 0.9615 | 0.9259 | 0.9434 |
 | **RF sin escalado y con ajuste** | 0.8710 | 0.9107 | 0.9444 | 0.9273 |
 | **RF con escalado y sin ajustar** | 0.8871 | 0.9434 | 0.9259 | 0.9346 |
 
