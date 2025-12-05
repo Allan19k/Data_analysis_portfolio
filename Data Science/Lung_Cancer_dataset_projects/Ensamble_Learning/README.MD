@@ -12,7 +12,7 @@ Los modelos implementados fueron: VotingClassifier (Hard Voting), Bagging, Pasti
 
 ## ⚙ Modelos Implementados
 
-⿡ VotingClassifier — Hard Voting
+ VotingClassifier — Hard Voting
 
 Clasificadores base:
 
@@ -24,7 +24,7 @@ Clasificadores base:
 
 Adicionalmente, se evaluó cada clasificador por separado 
 
-⿢ BaggingClassifier
+ BaggingClassifier
 
 * Clasificador base: Decision Tree
 
@@ -41,7 +41,7 @@ n_jobs=-1
 
 Bagging entrena múltiples modelos independientes con remuestreo con reemplazo.
 
-⿣ PastingClassifier
+ PastingClassifier
 
 * Clasificador base: Decision Tree
 
