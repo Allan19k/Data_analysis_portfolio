@@ -1,8 +1,9 @@
-# 🧪 Práctica: Modelos de Ensamble
+# 🧪 Modelos de Ensamble
 
 Clasificación de Cáncer de Pulmón — Ensemble Learning
 
 En esta práctica se exploraron 6 modelos de ensamble para mejorar el rendimiento en la tarea de clasificación binaria del dataset de cáncer de pulmón. 
+
 A diferencia de modelos individuales, los ensambles combinan múltiples clasificadores para reducir la varianza, el sesgo o ambos, logrando predicciones más robustas.
 
 Los modelos implementados fueron: VotingClassifier (Hard Voting), Bagging, Pasting, AdaBoost, Gradient Boosting y XGBoost.
@@ -24,7 +25,7 @@ Clasificadores base:
 
 Adicionalmente, se evaluó cada clasificador por separado 
 
- BaggingClassifier
+2️⃣ BaggingClassifier
 
 * Clasificador base: Decision Tree
 
@@ -41,7 +42,7 @@ n_jobs=-1
 
 Bagging entrena múltiples modelos independientes con remuestreo con reemplazo.
 
- PastingClassifier
+3️⃣PastingClassifier
 
 * Clasificador base: Decision Tree
 
@@ -147,9 +148,9 @@ Para contextualizar, se compararon los ensambles contra los mejores modelos prev
 
 ---
 
-## 🧾 Conclusión General
+## 🧾 Conclusión
 
-Esta práctica permitió explorar diversos enfoques de ensemble learning, mostrando cómo cada técnica aporta distintas fortalezas:
+Esta práctica permitió explorar diversos enfoques de Ensemble Learning, mostrando cómo cada técnica aporta distintas fortalezas:
 
 * Bagging/Pasting redujeron la varianza.
 
