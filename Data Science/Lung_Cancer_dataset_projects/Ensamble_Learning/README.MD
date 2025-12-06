@@ -7,17 +7,17 @@ A diferencia de modelos individuales, los ensambles combinan múltiples clasific
 
 Los modelos implementados fueron: 
 
-[x] VotingClassifier (Hard Voting)
+[X] VotingClassifier (Hard Voting)
 
-[x] Bagging
+[X] Bagging
 
-[x] Pasting
+[X] Pasting
 
-[x] AdaBoost
+[X] AdaBoost
 
-[x] Gradient Boosting
+[X] Gradient Boosting
 
-[x] XGBoost
+[X] XGBoost
 
 > [!NOTE]
 > 🔎 El preprocesamiento fue el mismo que en las prácticas anteriores (LR, SVM, RF), por lo que aquí únicamente se documentan los modelos de ensamble y sus resultados.
