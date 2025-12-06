@@ -1,6 +1,5 @@
 # 🌲 Random Forest Classifier – Lung Cancer Prediction
 
----
 
 Este proyecto aplica el algoritmo de Random Forest para predecir cáncer de pulmón utilizando el Lung Cancer Dataset de Kaggle.
 Se implementaron tres variaciones del modelo:
