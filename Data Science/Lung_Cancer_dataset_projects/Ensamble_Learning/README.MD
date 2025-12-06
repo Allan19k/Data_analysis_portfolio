@@ -11,6 +11,8 @@ Los modelos implementados fueron: VotingClassifier (Hard Voting), Bagging, Pasti
 > [!NOTE]
 > 🔎 El preprocesamiento fue el mismo que en las prácticas anteriores (LR, SVM, RF), por lo que aquí únicamente se documentan los modelos de ensamble y sus resultados.
 
+---
+
 ## ⚙ Modelos Implementados
 
 1️⃣ VotingClassifier — Hard Voting
