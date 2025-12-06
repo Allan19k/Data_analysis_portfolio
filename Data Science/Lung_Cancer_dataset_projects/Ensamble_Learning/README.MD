@@ -27,6 +27,8 @@ Clasificadores base:
 
 Adicionalmente, se evaluó cada clasificador por separado 
 
+---
+
 2️⃣ BaggingClassifier
 
 * Clasificador base: Decision Tree
@@ -43,6 +45,8 @@ n_jobs=-1
 ```
 
 Bagging entrena múltiples modelos independientes con remuestreo con reemplazo.
+
+---
 
 3️⃣ PastingClassifier
 
@@ -62,6 +66,8 @@ n_jobs=-1
 
 Es equivalente al Bagging pero sin reemplazo, lo que modifica el nivel de variabilidad entre los modelos del ensamble.
 
+--- 
+
 4️⃣ AdaBoostClassifier
 
 * Clasificador base: Decision Tree
@@ -78,6 +84,8 @@ random_state=42
 
 AdaBoost ajusta clasificadores sucesivos priorizando las instancias mal clasificadas previamente.
 
+---
+
 5️⃣ GradientBoostingClassifier
 
 Parámetros:
@@ -91,6 +99,8 @@ random_state=42
 ```
 
 Modelo de boosting secuencial, cada árbol busca corregir el error residual de los anteriores.
+
+---
 
 6️⃣ XGBoostClassifier
 
