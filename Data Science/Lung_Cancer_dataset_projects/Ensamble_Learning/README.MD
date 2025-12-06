@@ -1,4 +1,4 @@
-# 🧪 Modelos de Ensamble
+# 🧪 Ensemble Classifier - Lung Cancer Prediction 
 
 Clasificación de Cáncer de Pulmón — Ensemble Learning
 
