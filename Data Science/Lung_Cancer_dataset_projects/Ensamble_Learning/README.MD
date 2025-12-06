@@ -36,7 +36,7 @@ Clasificadores base:
 
 * Random Forest
 
-Adicionalmente, se evaluó cada clasificador por separado 
+_Adicionalmente, se evaluó cada clasificador por separado para entender su rendimiento individual e identificar problemas_
 
 ---
 
@@ -52,10 +52,9 @@ max_samples=1.0
 bootstrap=True  
 random_state=42  
 n_jobs=-1
-
 ```
 
-Bagging entrena múltiples modelos independientes con remuestreo con reemplazo.
+_Bagging entrena múltiples modelos independientes con remuestreo con reemplazo._
 
 ---
 
@@ -66,16 +65,14 @@ Bagging entrena múltiples modelos independientes con remuestreo con reemplazo.
 * Parámetros:
 
 ```
-
 n_estimators=100  
 max_samples=1.0  
 bootstrap=False   # sin reemplazo  
 random_state=42  
 n_jobs=-1
-
 ```
 
-Es equivalente al Bagging pero sin reemplazo, lo que modifica el nivel de variabilidad entre los modelos del ensamble.
+_Es equivalente al Bagging pero sin reemplazo, lo que modifica el nivel de variabilidad entre los modelos del ensamble._
 
 --- 
 
@@ -90,10 +87,9 @@ estimator=DecisionTreeClassifier(max_depth=1)
 n_estimators=50  
 learning_rate=1.0  
 random_state=42
-
 ```
 
-AdaBoost ajusta clasificadores sucesivos priorizando las instancias mal clasificadas previamente.
+_AdaBoost ajusta clasificadores sucesivos priorizando las instancias mal clasificadas previamente._
 
 ---
 
@@ -106,10 +102,9 @@ n_estimators=100
 learning_rate=0.1  
 max_depth=3  
 random_state=42
-
 ```
 
-Modelo de boosting secuencial, cada árbol busca corregir el error residual de los anteriores.
+_Modelo de boosting secuencial, cada árbol busca corregir el error residual de los anteriores._
 
 ---
 
@@ -122,13 +117,11 @@ xgb.XGBClassifier(
     random_state=42,
     eval_metric='logloss'
 )
-
 ```
 
-Se requirió mapear las etiquetas {YES, NO} → {1, 0}.
+* Se requirió mapear las etiquetas {YES, NO} → {1, 0}.
 
-
-XGBoost emplea optimizaciones avanzadas de boosting, regularización y manejo eficiente del gradiente.
+* XGBoost emplea optimizaciones avanzadas de boosting, regularización y manejo eficiente del gradiente.
 
 ---
 
@@ -167,7 +160,7 @@ Para contextualizar, se compararon los ensambles contra los mejores modelos prev
 | **Random Forest**             | RF sin escalar (default)  | 0.9032     |
 | **Ensambles (esta práctica)** | **VotingClassifier Hard** | **0.9194** |
 
-⭐ Los ensambles superaron a todos los modelos individuales, mostrando la ventaja de combinar clasificadores.
+⭐ _Los ensambles superaron a todos los modelos individuales, mostrando la ventaja de combinar clasificadores._
 
 ---
 
