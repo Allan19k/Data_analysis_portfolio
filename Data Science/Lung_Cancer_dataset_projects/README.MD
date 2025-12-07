@@ -38,7 +38,7 @@ Objetivo: Entrenar un modelo de clasificación usando Regresión Logística y op
 
 * Conclusiones basadas en los resultados
 
-Mejor modelo:
+⭐ Mejor modelo:
 
 SGDClassifier ajustado.
 
@@ -56,9 +56,6 @@ Modelos implementados:
 
 - SVM Polinomial
 
-GridSearch / RandomSearch
-
-Matrices de confusión y métricas completas
 
 Hallazgos importantes:
 
@@ -116,29 +113,32 @@ Comparación general:
 Los modelos de ensamble fueron evaluados con métricas estándar, mostrando un rendimiento superior respecto a LR, SVM y Random Forest.
 
 Mejor modelo:
-⭐ VotingClassifier (Hard Voting)
+VotingClassifier (Hard Voting)
+
 Accuracy: 0.9194
+
 F1-score: 0.9533
 
 Conclusión:
-* Los ensambles demostraron ser los modelos más robustos y con mejor desempeño en el dataset.
+
+* Esta práctica ha sido fundamental para entender cómo funcionan los modelos de ensamble.
 
 ---
 
 ## 📊 Comparación Global entre las Prácticas
 
-| Práctica / Modelo   | Mejor Modelo             | Accuracy   |
-| ------------------- | ------------------------ | ---------- |
-| Logistic Regression | SGD Ajustado             | 0.9032     |
-| SVM                 | SVM Lineal Ajustado      | 0.9032     |
-| Random Forest       | RF Default (No escalado) | 0.9032     |
-| **Ensembles**       | **VotingClassifier**     | **0.9194** |
+| Práctica / Modelo       | ⭐ Mejor Modelo          |🎯 Accuracy |
+| ----------------------- | ------------------------ | ---------- |
+| **Logistic Regression** | **SGD Ajustado**         | **0.9355** |
+| SVM                     | SVM Lineal Ajustado      | 0.9032     |
+| Random Forest           | RF Default (No escalado) | 0.9032     |
+| Ensambles               | VotingClassifier         | 0.9194     |
 
 🏆 Modelo ganador absoluto del proyecto:
 
-⭐ VotingClassifier (Hard Voting)
+⭐ Logistic Regression 
 
-Superó a todos los modelos individuales y otros ensambles en precisión, balance y desempeño general
+Superó a todos los modelos individuales y a todos los ensambles en precisión y desempeño general
 
 ---
 
