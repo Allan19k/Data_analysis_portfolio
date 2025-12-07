@@ -41,7 +41,8 @@ Objetivo: Entrenar un modelo de clasificación usando Regresión Logística y op
 Mejor modelo:
 
 SGDClassifier ajustado.
-Accuracy final: ~0.9032
+
+Accuracy final: 0.9355
 
 2️⃣ SVM — Modelos Lineales y No Lineales
 
