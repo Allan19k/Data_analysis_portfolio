@@ -30,7 +30,7 @@ Ejercicios de Excel aplicados a análisis y dashboarding (en proceso), entre ell
 
 ## 3. 🤖 Machine Learning Projects
 
-Desarrollados en 7º semestre con la Dra. Graciela María de Jesús Ramírez Alonso:
+Ejercicios y Proyectos desarrollados en 7º semestre durante la Materia Optativa de Machine Learning con la Dra. Graciela María de Jesús Ramírez Alonso:
 
 - **Repaso de Álgebra para redes neuronales** (Ejercicios de Álgebra usando la libreria Numpy, enfocados a reforzar dichos conocimientos esenciales para ML)
 - **Búsqueda de hiperparámetros** (GridSearchCV con MLPClassifier sobre `load_wine`)
@@ -44,7 +44,7 @@ Consiste en una aplicación móvil que utiliza un modelo de clasificación entre
 
 ## 4. 📉 Minitab Projects
 
-Ejercicios de Estadística realizados en 5º semestre con la Profesora Patricia Guadalupe Orpinel Ureña:
+Ejercicios de Estadística realizados en 5º semestre a cargo de la Dra. Patricia Guadalupe Orpinel Ureña:
 
 - **Pruebas Chi‑cuadrado** (bondad de ajuste e independencia)
 - **ANOVA** (un solo factor y dos factores)
@@ -93,7 +93,8 @@ Proyectos y ejercicios realizados con Microsoft Power BI, aplicando importación
 
 ## 9. 🥼 Data Science
 
-Materia optativa de 8º semestre en curso que estoy llevando con la Dra. Olanda Prieto Ordaz 
+Materia optativa de 8º semestre impartida por la Dra. Olanda Prieto Ordaz.
+Curso práctico de Data Science centrado en el ciclo completo de proyectos: adquisición y limpieza de datos, análisis exploratorio, modelado supervisado y no supervisado, validación y despliegue. Incluye prácticas guiadas en Google Colab / Jupyter, trabajo con librerías científicas (pandas, scikit-learn, seaborn, matplotlib, xgboost), y una entrega final orientada a producción con Streamlit. Este espacio me permitió aplicar técnicas de ML a problemas reales y construir artefactos reproducibles para mi portafolio.
 
 ---
 
