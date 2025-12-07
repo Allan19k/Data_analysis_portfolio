@@ -18,8 +18,8 @@ conteo de amigos, identificación de usuarios más conectados, intereses más fr
 
 ### 🕵️‍♂️ Web Scraping + Análisis de Herramientas Open Source
 
-Seguimiento de un tutorial de YouTube para scraping en Python; se añadió una etapa de análisis que extrae menciones de herramientas Open Source para Data Science y las agrupa por categorías (data management, integration, visualization etc.). 
-Se crearon gráficas que muestran la frecuencia de menciones por herramienta/categoría.
+Seguimiento de un tutorial de YouTube para scraping en Python; se añadió una etapa de análisis que extrae menciones de herramientas Open Source para Data Science y las agrupa por categorías (data management, integration, visualization etc.).
+ Se crearon gráficas que muestran la frecuencia de menciones por herramienta/categoría.
 
 📂 [/Scrapping_Web](./Scrapping_Web)
 
