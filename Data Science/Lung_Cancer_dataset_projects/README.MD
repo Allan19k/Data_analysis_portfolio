@@ -142,7 +142,7 @@ Superó a todos los modelos individuales y a todos los ensambles en precisión y
 
 ---
 
-## 🔍 Conclusión General del Proyecto
+## 🔍 Conclusión General de este repositorio
 
 Este conjunto de prácticas permitió:
 
