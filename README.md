@@ -94,7 +94,7 @@ Proyectos y ejercicios realizados con Microsoft Power BI, aplicando importación
 
 Materia optativa de 8º semestre impartida por la Dra. Olanda Prieto Ordaz.
 
-Curso práctico de Data Science centrado en el ciclo completo de proyectos: adquisición y limpieza de datos, análisis exploratorio, modelado supervisado y no supervisado, validación y despliegue. Este espacio me permitió aplicar técnicas de ML a problemas reales y construir artefactos reproducibles para mi portafolio.
+Curso práctico de Data Science centrado en el ciclo completo de un proyecto de Machine Learning: adquisición y limpieza de datos, análisis exploratorio, modelado supervisado y no supervisado, validación y despliegue. Este espacio me permitió aplicar técnicas de ML a problemas reales y construir artefactos reproducibles para mi portafolio.
 
 * **Social_Network_Analysis** Práctica introductoria desarrollada en Google Colab utilizando el libro Data Science from Scratch como referencia. El objetivo principal fue aplicar estructuras de datos en Python para resolver preguntas relacionadas con una pequeña red social ficticia de empleados.
 * **Scrapping_Web** Seguimiento de un tutorial de YouTube para scraping en Python; se añadió una etapa de análisis que extrae menciones de herramientas Open Source para Data Science y las agrupa por categorías (data management, integration, visualization, etc.). Se crearon gráficas que muestran la frecuencia de menciones por herramienta/categoría.
