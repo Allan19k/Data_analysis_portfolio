@@ -162,6 +162,7 @@ Este conjunto de prácticas permitió:
 Allan Hall
 
 Estudiante de Ingeniería en Ciencias de la Computación | Enfoque en Data Science & Machine Learning
+
 Proyecto desarrollado como parte de la materia de Data Science a cargo de la Dra. Olanda Prieto Ordaz
 
 
