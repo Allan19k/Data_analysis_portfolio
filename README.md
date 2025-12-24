@@ -38,9 +38,9 @@ Ejercicios y Proyectos desarrollados en 7º semestre durante la Materia Optativa
 * **Transfer Learning** con ResNet50 para clasificación de imágenes
 * **Smart Dairy Farming: Milk Yield Classification App** (Proyecto Final de la materia)
 Consiste en una aplicación móvil que utiliza un modelo de clasificación entrenado con visión por computadora para predecir niveles de producción de leche (alta, media o baja) a partir de imágenes. Fue publicado como artículo científico y demuestra la aplicación práctica del aprendizaje automático en el sector agropecuario
-* **Cursos de Kaggle Learn:**
+* **Cursos complementarios:**
 
-[x] Intro to Machine Learning
+- [x] Intro to Machine Learning 
 
 ---
 
