@@ -57,20 +57,40 @@ Nota: Por cuestiones de tiempo y logística, **la parte de programación no fue 
 
 ### 🪐 Intro to Machine Learning 
 
+
+---
+
 ### ☄️ Intermediate Machine Learning 
 
+
+---
+
 ### ✨ Intro to Deep Learning 
+
+
+---
 
 ### 🖥️ Computer Vision 
 
 
+---
 
-
-
-
+### 🕹️ Feature Engieering
 
 
 ---
+
+### 🕰️ Time Series 
+
+
+---
+
+
+### 🔥 Machine Learning Explainaility
+
+
+---
+
 
 ## 🧠 Habilidades aplicadas
 
