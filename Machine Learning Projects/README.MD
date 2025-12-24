@@ -5,9 +5,11 @@ Cada uno aborda distintos enfoques y técnicas de aprendizaje supervisado, redes
 
 El objetivo de esta sección es demostrar el dominio de distintas fases del desarrollo de modelos de Machine Learning: desde la preparación de datos hasta la evaluación y optimización del rendimiento.
 
+Adicionalmente se incluyen cursos de Kaggle Learn de Machine Learning (Intro to Machine Learning, Intermediate Machine Learning, Intro to Deep Learning, Computer Vision, Feature Engieering, Time Series y Machine Learning Explainaility) para ampliar este repositorio.
+
 ---
 
-## 📁 Contenido de proyectos
+## 📁 Contenido del repositorio
 
 ### 📐 1. Repaso de Álgebra para Redes Neuronales
 
@@ -47,6 +49,15 @@ Modelo de clasificación de imágenes de herramientas utilizando transferencia d
 Proyecto final desarrollado en el curso de Machine Learning. Consiste en una aplicación móvil que utiliza un modelo de clasificación basado en visión por computadora para predecir niveles de producción de leche (alta, media o baja) a partir de imágenes. Este proyecto fue **publicado en una revista indexada en JCR** y se incluye el archivo PDF con la descripción completa del trabajo.  
   
 Nota: Por cuestiones de tiempo y logística, **la parte de programación no fue documentada**, ya que el desarrollo se realizó en una computadora de la facultad.
+
+## ⭐ Cursos adicionales de ML certificados
+
+### 🪐 Intro to Machine Learning 
+
+
+
+
+
 
 
 ---
