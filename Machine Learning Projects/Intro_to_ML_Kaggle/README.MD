@@ -35,13 +35,13 @@ Introducción conceptual al funcionamiento de los modelos de Machine Learning ex
 Actividades realizadas:
 - Carga del dataset con `pandas`
 - Análisis estadístico básico (`describe`)
-- Soluciòn de 2 preguntas con la informaciòn obtenida
+- Solución de 2 preguntas con la información obtenida
 
-* What is the average lot size (rounded to nearest integer)?
-avg_lot_size = 10517
+  * What is the average lot size (rounded to nearest integer)?
+  avg_lot_size = 10517
 
-* As of today, how old is the newest home (current year - the date in which it was built)
-newest_home_age = 15
+  * As of today, how old is the newest home (current year - the date in which it was built)
+  newest_home_age = 15
 
 Esta etapa permitió entender la estructura del conjunto de datos antes de aplicar modelos.
 
