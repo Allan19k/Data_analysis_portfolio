@@ -235,6 +235,6 @@ El certificado de finalización del curso está disponible en la carpeta raíz d
 
 ---
 
-> 🚀 _Este módulo forma parte de mi preparación profesional en análisis de datos para aplicar a prácticas profesionales en Black Labs (Chihuahua)._
+> 🚀 _Este módulo forma parte de mi preparación profesional en análisis de datos para aplicar a prácticas profesionales._
 
 
