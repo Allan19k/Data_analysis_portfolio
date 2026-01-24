@@ -57,7 +57,8 @@ El ejercicio incluye: partición Train/Test, exploración de datos, creación de
 
 4. Para mejorar el modelo seria necesario experimentar con modelos no lineales como Random Forest o XGBoost
 
-## **NOTA:** durante la revisión del proyecto se detectaron algunos errores y recomendaciones, las cuales se enlistan aquí abajo
+> [!IMPORTANT]
+> Durante la revisión del proyecto se detectaron algunos errores y recomendaciones, las cuales se enlistan aquí abajo
 
 -Se elimina columna por considerar "irrelevante",  aqui es necesario justificar bien cuando eliminamos un atributo, es decir buscar un fundamento que justifique el eliminar la columna ya sea por otros trabajos relacionados, pruebas estadísticas, etc.
 
