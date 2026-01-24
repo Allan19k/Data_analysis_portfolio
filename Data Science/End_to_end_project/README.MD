@@ -217,7 +217,7 @@ Esto replica exactamente las transformaciones que se usaron durante el entrenami
 
 
 > [!NOTE]
-> ⚠️ Los modelos generados en este proyecto no se incluyen en el repositorio debido a su tamaño, ya que GitHub no está diseñado para manejar archivos grandes (más de 25 MB)
+> ⚠️ Los modelos generados en este proyecto no se incluyen en el repositorio debido a su tamaño, ya que GitHub no está diseñado para manejar archivos grandes (más de 25 MB).
 
 
 
