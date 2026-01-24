@@ -57,6 +57,7 @@ Nota: Por cuestiones de tiempo y logística, **la parte de programación no fue 
 
 ### 🪐 Intro to Machine Learning 
 
+Curso introductorio enfocado en los fundamentos del Machine Learning utilizando Python y scikit-learn. A través de un caso práctico de predicción de precios de viviendas, se abordan conceptos clave como exploración de datos, entrenamiento de modelos, validación, underfitting y overfitting, y el uso de algoritmos como Decision Trees y Random Forests para mejorar el desempeño de los modelos.
 
 ---
 
