@@ -182,8 +182,7 @@ Ayuda a evaluar si el modelo tiende a:
 
 Clasificar falsamente pacientes con cáncer
 
-O fallar en detectar casos reales
-(muy importante en medicina)
+O fallar en detectar casos reales (muy importante en medicina)
 
 ## 🧠 Conclusiones 
 
