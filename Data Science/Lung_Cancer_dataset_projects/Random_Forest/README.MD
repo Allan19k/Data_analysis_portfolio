@@ -120,7 +120,7 @@ Al implementar los 3 modelos se obtuvieron los siguientes resultados:
 | **RF sin escalado y con ajuste** | 0.8710 | 0.9107 | 0.9444 | 0.9273 |
 | **RF con escalado y sin ajustar** | 0.8871 | 0.9434 | 0.9259 | 0.9346 |
 
-El escalado de los datos no mejoró el rendimiento. Dado que Random Forest
+El escalado de los datos no mejoró el rendimiento. Dado que Random Forest:
 
   - No es sensible al escalado
 
@@ -177,7 +177,7 @@ También en las instrucciones de la práctica se pidio comparar estos resultados
 
 ## 🧠 Conclusiones
 
-Este proyecto permitió analizar cómo el preprocesamiento y el ajuste de hiperparámetros afectan el desempeño de Random Forest. Se concluye:
+Este proyecto permitió analizar cómo el preprocesamiento y el ajuste de hiperparámetros afectan el desempeño de Random Forest.
 
 * El Random Forest sin escalar y sin ajuste es el mejor modelo para este dataset.
 
