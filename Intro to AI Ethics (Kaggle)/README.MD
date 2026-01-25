@@ -39,7 +39,7 @@ Este curso me permitió fortalecer no solo mis habilidades técnicas, sino tambi
 ## 📁 Archivos
 
 - Notebooks con ejercicios de cada módulo
-- Certificado de finalización
+- Certificado de finalización (en la sección de Certifications de este portafolio)
 
 ---
 
