@@ -1,4 +1,4 @@
-# 📘 Practica Introductoria – Social Network Analysis
+# 📘 Práctica Introductoria – Social Network Analysis
 
 Esta práctica introductoria de la materia **Data Science** fue desarrollada en Google Colab utilizando el libro *Data Science from Scratch* como referencia.  
 
