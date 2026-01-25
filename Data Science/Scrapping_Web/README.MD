@@ -1,6 +1,7 @@
 # 🕵️‍♂️ Web Scraping con Python – Herramientas Open Source para Data Science  
 
-Este proyecto surge a partir de un tutorial de YouTube sobre **Web Scraping en Python**, https://youtu.be/Ew44dS0mw-E?si=GbRhjFCaYaq9xMzS , al cual se le añadió una extensión para analizar cuáles son las **herramientas Open Source más mencionadas en el campo del Data Science**, agrupadas en diferentes categorías.  
+Este proyecto consiste en seguir un tutorial de YouTube sobre web scraping (https://youtu.be/Ew44dS0mw-E?si=GbRhjFCaYaq9xMzS), en el que aprendimos sobre el scraping y todo lo que implica. 
+También se nos pidió que agrupáramos en diferentes categorías las herramientas de código abierto más mencionadas en el campo de la ciencia de datos.
 
 ---
 
