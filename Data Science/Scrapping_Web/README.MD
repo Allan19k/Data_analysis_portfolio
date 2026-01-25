@@ -42,7 +42,7 @@ También se nos pidió que agrupáramos en diferentes categorías las herramient
 ## 📂 Estructura del proyecto
 - `Scrapping_Web.ipynb` → Notebook con todo el código documentado.  
 - `Herramientas_DS.pdf` → Documento base con listado de herramientas Open Source.  
-- `graficos/` → Carpeta con imágenes de las visualizaciones generadas.  
+- `Graficos` → Carpeta con imágenes de las visualizaciones generadas.  
 
 ---
 
