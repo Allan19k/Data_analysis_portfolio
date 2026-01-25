@@ -50,12 +50,3 @@ A medida que avance en mi carrera y fortalezca mis habilidades de análisis de d
 Este repositorio busca demostrar habilidades técnicas aplicadas en Excel, no solo desde un enfoque académico, sino también con **casos prácticos**, útiles para la industria y en especial, para una futura carrera profesional en el área de **Data Analysis o Data Engineering**.
 
 ---
-
-## 🪪 Licencia
-
-Este proyecto se encuentra bajo la licencia MIT.  
-Sientete libre de usar, modificar o aprender de estos ejemplos.  
-
----
-
-📌 *Última actualización: Agosto 2025*
