@@ -118,3 +118,8 @@ Curso introductorio enfocado en los fundamentos del Machine Learning utilizando 
 ## 📄 Licencia
 
 Todos los proyectos incluidos en esta sección son de uso académico y libre distribución con fines educativos.
+
+## 🙋 Autor
+
+**[Allan Hall Solorio 358909]**  
+Estudiante de Ingeniería en ciencias de la computación, *Machine Learning*, Dr. Graciela Maria de Jesus Ramirez Alonso
