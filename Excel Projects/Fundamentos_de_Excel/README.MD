@@ -94,18 +94,18 @@ Consultar los resultados de la fila de totales
 
 En esta base de datos se registran diferentes facturas y posee las siguientes columnas:
 
-     + NUMERO FACTURA CLIENTE: se indica el número de la factura.
-     + CONCEPTO: el concepto que estamos facturando.
-     + CLIENTE: el cliente al que le emitimos la factura
-     + PROVINCIA: provincia en la que reside el cliente al que le facturamos.
-     + SECTOR: sector de actividad empresarial al que pertenece el cliente al que facturamos.
-     + IMPORTE CLIENTE: importe que facturamos al cliente.
-     + FECHA FACTURA CLIENTE: fecha de emisión de la factura.
-     + PAGADA CLIENTE: indicamos si el cliente ha pagado o no la factura.
-     + PROVEEDOR: cada factura que hacemos es un servicio que contratamos a un proveedor, por tanto, en esta columna indicamos el nombre del proveedor que estamos contratando para dar el servicio que estamos facturando.
-     + ZONA: la zona geográfica que cubre el proveedor.
-     + TIPO: qué tipo de proveedor es.
-     + IMPORTE PROVEEDOR: el importe que nos cobra el proveedor por darnos el servicio contratado
++ NUMERO FACTURA CLIENTE: se indica el número de la factura.
++ CONCEPTO: el concepto que estamos facturando.
++ CLIENTE: el cliente al que le emitimos la factura
++ PROVINCIA: provincia en la que reside el cliente al que le facturamos.
++ SECTOR: sector de actividad empresarial al que pertenece el cliente al que facturamos.
++ IMPORTE CLIENTE: importe que facturamos al cliente.
++ FECHA FACTURA CLIENTE: fecha de emisión de la factura.
++ PAGADA CLIENTE: indicamos si el cliente ha pagado o no la factura.
++ PROVEEDOR: cada factura que hacemos es un servicio que contratamos a un proveedor, por tanto, en esta columna indicamos el nombre del proveedor que estamos contratando para dar el servicio que estamos facturando.
++ ZONA: la zona geográfica que cubre el proveedor.
++ TIPO: qué tipo de proveedor es.
++ IMPORTE PROVEEDOR: el importe que nos cobra el proveedor por darnos el servicio contratado
 
 - **Objetivo**: Realizar las siguientes acciones y configuraciones en los datos del documento:
 
