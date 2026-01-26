@@ -23,7 +23,7 @@ El proyecto tiene un fuerte vínculo personal, ya que el autor proviene de una f
 - Ultralytics YOLOv11
 - Roboflow
 - Pandas, NumPy, Matplotlib
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ## 📑 Resultado
 El proyecto fue aceptado y publicado como artículo científico, demostrando el potencial de la visión por computadora en contextos agrícolas y ganaderos.
