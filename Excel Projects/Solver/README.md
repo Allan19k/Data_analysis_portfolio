@@ -4,13 +4,6 @@ Este proyecto contiene la resolución de **dos problemas clásicos de programaci
 
 ---
 
-## 📁 Contenido
-
-- `SOLVER-Investigacion de operaciones I.xlsx`: Archivo con la formulación, implementación y solución de los modelos utilizando Solver de Excel.
-- `README.md`: Descripción detallada de los problemas, modelos matemáticos y enfoque de solución.
-
----
-
 ## 📌 Problema 1: Producción de Pinturas - Reddy Mikks
 
 ### 📝 Descripción
@@ -98,4 +91,4 @@ Este proyecto académico es de uso libre con fines educativos.
 ## 🙋 Autor
 
 **[Allan Hall Solorio 358909]**  
-Estudiante de Ingeniería en ciencias de la computación, curso: *Investigación de Operaciones I*  
+Estudiante de Ingeniería en ciencias de la computación, *Investigación de Operaciones I*, Docente: Olanda Prieto Ordaz
