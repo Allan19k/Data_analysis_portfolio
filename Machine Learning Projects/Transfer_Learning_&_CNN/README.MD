@@ -46,12 +46,6 @@ Desarrollar un modelo de clasificación robusto y eficiente que identifique corr
 
 ---
 
-## 📁 Archivos incluidos
-
-- `CNN_Transfer_Learning.ipynb`: Notebook con todo el flujo de trabajo implementado: carga de datos, procesamiento, entrenamiento y evaluación.
-
----
-
 ## ✅ Conclusiones
 
 La integración de Transfer Learning con **técnicas de mejora específicas** como el congelamiento parcial, regularización con dropout y el ajuste del clasificador, permitió mejorar sustancialmente la capacidad del modelo para clasificar imágenes de herramientas. 
