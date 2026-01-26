@@ -106,7 +106,7 @@ Este modelo logró una mejora significativa en el error, demostrando la ventaja 
 
 ## 🧠 Conclusiones
 
-- El curso permitió comprender el flujo básico de un proyecto de Machine Learning:
+El curso permitió comprender el flujo básico de un proyecto de Machine Learning:
   - Exploración de datos
   - Entrenamiento de modelos
   - Validación y comparación
@@ -130,5 +130,3 @@ Este modelo logró una mejora significativa en el error, demostrando la ventaja 
 **Allan Hall**  
 Estudiante de Ingeniería en Ciencias de la Computación  
 Enfoque en Análisis de Datos y Machine Learning  
-
-📂 Portafolio en GitHub: *(en construcción continua)*  
