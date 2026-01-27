@@ -1,6 +1,6 @@
 # 🕸️ Scraping Automation con Hilos en Python
 
-En esta carpeta documento diferentes **ejercicios prácticos de web scraping y automatización** desarrollados en Python para la materia de Computo Paralelo y Distribuido.
+En esta carpeta documento diferentes **ejercicios prácticos de web scraping y automatización** desarrollados en Python durante el curso de Computo Paralelo y Distribuido, con el Profesor Jose Saul de Lira Miramontes
 El enfoque principal fue aplicar **concurrencia con hilos (`threading`)** para optimizar las descargas y consultas a diferentes fuentes de datos.
 
 ## 📑 Ejercicios incluidos
