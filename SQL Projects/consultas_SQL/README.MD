@@ -63,7 +63,7 @@ Creación y uso de vistas para simplificar consultas:
 
 ---
 
-## 🧠 Conclusion
+## 🧠 Objetivos
 - Fortalecer la lógica de consultas SQL
 - Comprender el manejo de bases de datos relacionales
 - Preparar bases sólidas para análisis de datos, reporting y herramientas como Power BI
