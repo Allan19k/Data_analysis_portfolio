@@ -125,8 +125,3 @@ El curso permitió comprender el flujo básico de un proyecto de Machine Learnin
 
 ---
 
-## 📌 Autor
-
-**Allan Hall**  
-Estudiante de Ingeniería en Ciencias de la Computación  
-Enfoque en Análisis de Datos y Machine Learning  
