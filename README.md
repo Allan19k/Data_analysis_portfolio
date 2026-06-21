@@ -1,10 +1,13 @@
-# 📊 Data Analysis Portfolio
+# 📊 Portafolio de Análisis de Datos
 
-Este repositorio —en constante desarrollo— reúne mis proyectos, ejercicios, prácticas profesionales y certificaciones en el área de análisis de datos. Actualmente curso el noveno semestre de la carrera de Ingeniería en Ciencias de la Computación, mientras realizo mis prácticas profesionales en Nidix Networks, lo que me permite aplicar mis conocimientos en un entorno real y complementar mi formación académica.
+Bienvenido a mi portafolio de Análisis de Datos. Soy **Allan Hall Solorio**, Ingeniero en Ciencias de la Computación egresado de la Universidad Autónoma de Chihuahua (UACH), actualmente en proceso de titulación.
 
-El portafolio integra proyectos en **Python** que he desarrollado a lo largo de la carrera para distintas materias optativas como: *Machine Learning* y *Data Science*. Así como, otras herramientas propias del análisis de datos como **Excel**, **SQL**, **PowerBi**, **Minitab**, entre otras. Esto, además de mostrar mis habilidades técnicas, también refleja mi compromiso con el aprendizaje continuo, la mejora constante y la adopción de buenas prácticas de ingeniería, como documentación, control de versiones y uso de pipelines.
+Este repositorio reúne proyectos, prácticas, certificaciones y ejercicios desarrollados a lo largo de mi formación académica y mis primeras experiencias profesionales. Aquí documento mi crecimiento en áreas como **Análisis de Datos, Ciencia de Datos, Machine Learning, SQL, Excel, Power BI, Python y Estadística Aplicada**.
 
-Este repositorio seguirá creciendo de forma progresiva, incorporando las nuevas herramientas, metodologías y tecnologías que voy aprendiendo, especialmente ahora que estoy expuesto a procesos reales dentro de la industria. Considero fundamental mantenerse actualizado en un entorno tecnológico que evoluciona rápidamente; por ello, además de reforzar lo aprendido, busco integrar enfoques modernos que aporten valor en cualquier proyecto o empresa donde participe.
+Además de mostrar habilidades técnicas, este portafolio refleja mi compromiso con el aprendizaje continuo, la resolución de problemas mediante datos y la adopción de buenas prácticas de ingeniería, incluyendo documentación, control de versiones y desarrollo de proyectos reproducibles.
+
+Mi objetivo es seguir fortaleciendo mis conocimientos y construir soluciones basadas en datos que generen valor real para organizaciones y personas. Este repositorio continuará creciendo conforme incorpore nuevas herramientas, tecnologías y proyectos a mi trayectoria profesional.
+
 
 ---
 
@@ -118,5 +121,5 @@ Curso práctico de Data Science centrado en el ciclo completo de un proyecto de 
 
 ---
 
-*Repositorios y secciones actualizados al 06/12/2025.*  
+*Repositorios y secciones actualizados al 21/06/2026.*  
 
